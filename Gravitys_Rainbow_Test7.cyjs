@@ -1,0 +1,5972 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Gravity's Rainbow",
+    "name" : "Gravity's Rainbow",
+    "SUID" : 12976,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "14553",
+        "shared_name" : "Node 164",
+        "name" : "Ensign Morituri",
+        "SUID" : 14553,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9708.249311448157,
+        "y" : 6352.372050255829
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13120",
+        "shared_name" : "Node 24",
+        "name" : "Roger Mexico",
+        "SUID" : 13120,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6384.708692352478,
+        "y" : 524.5826263240173
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15507",
+        "shared_name" : "Node 22",
+        "name" : "Carrol Eventyr",
+        "SUID" : 15507,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5224.082414812297,
+        "y" : 834.1941128349831
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13128",
+        "shared_name" : "Node 57",
+        "name" : "Thomas Gwenhidwy",
+        "SUID" : 13128,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6477.624541452993,
+        "y" : 727.7147724409557
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13472",
+        "shared_name" : "Node 232",
+        "name" : "Okandio",
+        "SUID" : 13472,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6460.816252889718,
+        "y" : 1775.7955475998258
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13474",
+        "shared_name" : "Node 231",
+        "name" : "Orutyene",
+        "SUID" : 13474,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6372.6342828065335,
+        "y" : 1719.0690039991089
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13122",
+        "shared_name" : "Node 205",
+        "name" : "Jan Otyiyumbu",
+        "SUID" : 13122,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6246.634616989539,
+        "y" : 1726.1598219491987
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13479",
+        "shared_name" : "Node 175",
+        "name" : "Maria",
+        "SUID" : 13479,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6073.433557179581,
+        "y" : 1761.4036281117758
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13481",
+        "shared_name" : "Node 174",
+        "name" : "Christian",
+        "SUID" : 13481,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6373.540791392406,
+        "y" : 1773.4319416164628
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13483",
+        "shared_name" : "Node 230",
+        "name" : "Henrik the Hare",
+        "SUID" : 13483,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6373.697421411946,
+        "y" : 1844.183122686584
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13485",
+        "shared_name" : "Node 234",
+        "name" : "Vlasta",
+        "SUID" : 13485,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6294.813245242675,
+        "y" : 1804.158819400185
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13487",
+        "shared_name" : "Node 51",
+        "name" : "Oberst Enzian",
+        "SUID" : 13487,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6197.343633317913,
+        "y" : 1942.0084993148666
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13489",
+        "shared_name" : "Node 116",
+        "name" : "Josef Ombindi",
+        "SUID" : 13489,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6011.160355373912,
+        "y" : 1883.2287411854008
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13491",
+        "shared_name" : "Node 115",
+        "name" : "Mieczislav Omuzire",
+        "SUID" : 13491,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6171.177185409043,
+        "y" : 1806.522425383548
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13493",
+        "shared_name" : "Node 176",
+        "name" : "Pavel",
+        "SUID" : 13493,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5906.039564653334,
+        "y" : 1809.5208419595208
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13495",
+        "shared_name" : "Node 233",
+        "name" : "Ekori",
+        "SUID" : 13495,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6152.678230780155,
+        "y" : 1859.1408916609419
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13497",
+        "shared_name" : "Node 117",
+        "name" : "Andres Orukambe",
+        "SUID" : 13497,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6167.35648202819,
+        "y" : 1744.4906072476936
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13783",
+        "shared_name" : "Node 229",
+        "name" : "Sir Hannibal Grunt-Gobbinette",
+        "SUID" : 13783,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -14173.0,
+        "y" : 7875.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13785",
+        "shared_name" : "Node 225",
+        "name" : "Andre Omnopon",
+        "SUID" : 13785,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -13773.0,
+        "y" : 7875.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13787",
+        "shared_name" : "Node 224",
+        "name" : "Gustav Schlabone",
+        "SUID" : 13787,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9146.55232412437,
+        "y" : 3646.2857924350333
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13789",
+        "shared_name" : "Node 228",
+        "name" : "Lady Mnemosyne Gloobe",
+        "SUID" : 13789,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5368.0,
+        "y" : 6586.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13792",
+        "shared_name" : "Node 226",
+        "name" : "Frau Utgarthaloki",
+        "SUID" : 13792,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5094.0,
+        "y" : 6589.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13794",
+        "shared_name" : "Node 133",
+        "name" : "Seaman Bodine",
+        "SUID" : 13794,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -8550.863179470447,
+        "y" : 3488.32609524313
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13796",
+        "shared_name" : "Node 227",
+        "name" : "Constance Flamp",
+        "SUID" : 13796,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5222.0,
+        "y" : 6589.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13798",
+        "shared_name" : "Node 223",
+        "name" : "Stefan Utgarthaloki",
+        "SUID" : 13798,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4959.0,
+        "y" : 6588.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14563",
+        "shared_name" : "Node 162",
+        "name" : "Karel",
+        "SUID" : 14563,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9564.289411306218,
+        "y" : 6299.879576796117
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14565",
+        "shared_name" : "Node 161",
+        "name" : "Antoni Procalowski",
+        "SUID" : 14565,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9618.12456310814,
+        "y" : 5987.2750800086005
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14551",
+        "shared_name" : "Node 143",
+        "name" : "Bianca Erdmann",
+        "SUID" : 14551,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9344.02239352656,
+        "y" : 6066.698724731954
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14557",
+        "shared_name" : "Node 160",
+        "name" : "Stefania Procalowska",
+        "SUID" : 14557,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9623.749557862626,
+        "y" : 5871.659407329131
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14549",
+        "shared_name" : "Node 168",
+        "name" : "Count Wafna",
+        "SUID" : 14549,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9521.970055790182,
+        "y" : 6218.027354116006
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14555",
+        "shared_name" : "Node 169",
+        "name" : "Countess Bibescu",
+        "SUID" : 14555,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9405.23265409118,
+        "y" : 6241.937927971725
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14255",
+        "shared_name" : "Node 214",
+        "name" : "Myrtle Miraculous",
+        "SUID" : 14255,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9433.0,
+        "y" : 1845.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14253",
+        "shared_name" : "Node 215",
+        "name" : "Maximillian",
+        "SUID" : 14253,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9311.0,
+        "y" : 1853.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14217",
+        "shared_name" : "Node 10",
+        "name" : "Lt. Tyrone Slothrop",
+        "SUID" : 14217,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9558.0,
+        "y" : 1896.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14260",
+        "shared_name" : "Node 216",
+        "name" : "Marcel",
+        "SUID" : 14260,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9205.0,
+        "y" : 1843.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14379",
+        "shared_name" : "Node 11",
+        "name" : "Naline Slothrop",
+        "SUID" : 14379,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11150.591482829197,
+        "y" : 1833.2401068410215
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14377",
+        "shared_name" : "Node 118",
+        "name" : "Amy Sprue",
+        "SUID" : 14377,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11457.595053503288,
+        "y" : 1634.4567606083056
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14367",
+        "shared_name" : "Node 13",
+        "name" : "Variable Slothrop",
+        "SUID" : 14367,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11206.504830380567,
+        "y" : 1558.8780197345693
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14373",
+        "shared_name" : "Node 16",
+        "name" : "Lt. Isaiah Slothrop",
+        "SUID" : 14373,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11170.069821436968,
+        "y" : 1715.8603689775314
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14381",
+        "shared_name" : "Node 15",
+        "name" : "Mrs. Elizabeth",
+        "SUID" : 14381,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11444.27078201394,
+        "y" : 1718.7934205488948
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14371",
+        "shared_name" : "Node 14",
+        "name" : "William Slothrop",
+        "SUID" : 14371,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11193.205014522388,
+        "y" : 1633.3567118465594
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13396",
+        "shared_name" : "Node 104",
+        "name" : "Broderick Slothrop",
+        "SUID" : 13396,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11448.331311977809,
+        "y" : 1809.0310065947106
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14369",
+        "shared_name" : "Node 17",
+        "name" : "Frederick Slothrop",
+        "SUID" : 14369,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11434.882538845846,
+        "y" : 1909.2433457122163
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14375",
+        "shared_name" : "Node 12",
+        "name" : "Constant Slothrop",
+        "SUID" : 14375,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11472.632296053376,
+        "y" : 1562.2989034248158
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15422",
+        "shared_name" : "Node 242",
+        "name" : "Richard M Zhlubb",
+        "SUID" : 15422,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4413.004280092013,
+        "y" : 6428.741757835734
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15420",
+        "shared_name" : "Node 241",
+        "name" : "Steve Edelman",
+        "SUID" : 15420,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4272.129649356536,
+        "y" : 6419.7993161237455
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15418",
+        "shared_name" : "Node 240",
+        "name" : "Kim",
+        "SUID" : 15418,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10462.421066292507,
+        "y" : 4442.523001823784
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15416",
+        "shared_name" : "Node 239",
+        "name" : "Pete Dufay",
+        "SUID" : 15416,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10717.952225115849,
+        "y" : 4424.916546448066
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15414",
+        "shared_name" : "Node 238",
+        "name" : "Hogan",
+        "SUID" : 15414,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10949.717240291655,
+        "y" : 4376.520321994968
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15412",
+        "shared_name" : "Node 237",
+        "name" : "Marjorie",
+        "SUID" : 15412,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10612.50392655909,
+        "y" : 4267.022970427454
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15410",
+        "shared_name" : "Node 236",
+        "name" : "Mickey Wuxtry-Wuxtry",
+        "SUID" : 15410,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4402.387469974477,
+        "y" : 6535.442680465663
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15408",
+        "shared_name" : "Node 235",
+        "name" : "Mindy Bloth",
+        "SUID" : 15408,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4268.94963204297,
+        "y" : 6524.296734488493
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15406",
+        "shared_name" : "Node 222",
+        "name" : "Nikolai Ripov",
+        "SUID" : 15406,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5417.592000840078,
+        "y" : 6152.330371563346
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15404",
+        "shared_name" : "Node 221",
+        "name" : "Old Kenosho",
+        "SUID" : 15404,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4756.208318747962,
+        "y" : 6325.4062345271295
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15402",
+        "shared_name" : "Node 218",
+        "name" : "Minne Khlaetsch",
+        "SUID" : 15402,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -8593.296166956945,
+        "y" : 2987.7675757870006
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15400",
+        "shared_name" : "Node 217",
+        "name" : "Rohr",
+        "SUID" : 15400,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10517.720690179907,
+        "y" : 3922.2545073579445
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15398",
+        "shared_name" : "Node 209",
+        "name" : "Sandor Roszavolgyi",
+        "SUID" : 15398,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5700.220895887675,
+        "y" : 1189.3532430338657
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13566",
+        "shared_name" : "Node 204",
+        "name" : "Miss Muller Hochleben",
+        "SUID" : 13566,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6199.405889184041,
+        "y" : 590.7370046002851
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13835",
+        "shared_name" : "Node 203",
+        "name" : "Josef Schleim",
+        "SUID" : 13835,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6206.586105706262,
+        "y" : 265.9128421688941
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15392",
+        "shared_name" : "Node 202",
+        "name" : "Margaret Dumont",
+        "SUID" : 15392,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9668.08722003058,
+        "y" : -747.527550523494
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15390",
+        "shared_name" : "Node 201",
+        "name" : "Bette Davis",
+        "SUID" : 15390,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10082.681296709197,
+        "y" : -760.2122267780251
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15388",
+        "shared_name" : "Node 200",
+        "name" : "Sir Marcus Scammony",
+        "SUID" : 15388,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -8268.56445578038,
+        "y" : 583.2626361797976
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15386",
+        "shared_name" : "Node 199",
+        "name" : "Mravenko",
+        "SUID" : 15386,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5537.322896822549,
+        "y" : 6066.912089641764
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15384",
+        "shared_name" : "Node 198",
+        "name" : "Manuela",
+        "SUID" : 15384,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -8277.746148424572,
+        "y" : 2186.6861839388534
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15382",
+        "shared_name" : "Node 197",
+        "name" : "Shirley",
+        "SUID" : 15382,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10208.372940549514,
+        "y" : 4160.455206594654
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15380",
+        "shared_name" : "Node 196",
+        "name" : "Pharmacist Birdbury",
+        "SUID" : 15380,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9869.113054906295,
+        "y" : 4180.193576409
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15378",
+        "shared_name" : "Node 195",
+        "name" : "Albert Krypton",
+        "SUID" : 15378,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10004.62586153912,
+        "y" : 4068.403165850874
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15376",
+        "shared_name" : "Node 194",
+        "name" : "St. John Bladdery",
+        "SUID" : 15376,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9894.770610046375,
+        "y" : 4251.441855455698
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15374",
+        "shared_name" : "Node 193",
+        "name" : "Avery Purfle",
+        "SUID" : 15374,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10177.908076669188,
+        "y" : 4248.662262962899
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15372",
+        "shared_name" : "Node 192",
+        "name" : "General Wivern",
+        "SUID" : 15372,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7664.984709654387,
+        "y" : 1293.1513038040441
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15370",
+        "shared_name" : "Node 191",
+        "name" : "Dr. Spontoon",
+        "SUID" : 15370,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7928.374736207747,
+        "y" : 1354.2261480589455
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15368",
+        "shared_name" : "Node 190",
+        "name" : "Dr. Muffage",
+        "SUID" : 15368,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7949.468775015287,
+        "y" : 1532.2120704189113
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13079",
+        "shared_name" : "Node 189",
+        "name" : "Mrs. Bland",
+        "SUID" : 13079,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7446.378760247926,
+        "y" : 6978.0361854820485
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13075",
+        "shared_name" : "Node 188",
+        "name" : "Buddy",
+        "SUID" : 13075,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7493.666834938249,
+        "y" : 6926.588564868259
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13073",
+        "shared_name" : "Node 187",
+        "name" : "Clara",
+        "SUID" : 13073,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7508.696085204543,
+        "y" : 6874.41380841077
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13077",
+        "shared_name" : "Node 186",
+        "name" : "Lyle Jr",
+        "SUID" : 13077,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7395.880358093102,
+        "y" : 6926.83254079846
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15362",
+        "shared_name" : "Node 185",
+        "name" : "Alfonso Tracy",
+        "SUID" : 15362,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7621.478955923653,
+        "y" : 6712.251568055804
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15360",
+        "shared_name" : "Node 184",
+        "name" : "Pflaumbaum",
+        "SUID" : 15360,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7375.99749982724,
+        "y" : 6669.721084576996
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15358",
+        "shared_name" : "Node 183",
+        "name" : "Old Bloody Chiclitz",
+        "SUID" : 15358,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -8190.47015240267,
+        "y" : 2079.2833890786083
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15356",
+        "shared_name" : "Node 182",
+        "name" : "Ludwig",
+        "SUID" : 15356,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9280.402937603229,
+        "y" : 3687.0245226153233
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14132",
+        "shared_name" : "Node 180",
+        "name" : "Jeremiah \"Merciful\" Evans",
+        "SUID" : 14132,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9539.0,
+        "y" : -80.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14137",
+        "shared_name" : "Node 179",
+        "name" : "St. Just Grossout",
+        "SUID" : 14137,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9538.0,
+        "y" : -10.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15348",
+        "shared_name" : "Node 178",
+        "name" : "S.Z. \"Cuddles\" Sakall",
+        "SUID" : 15348,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10942.669451181491,
+        "y" : -9.506791611083372
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15346",
+        "shared_name" : "Node 177",
+        "name" : "Basil Rathbone",
+        "SUID" : 15346,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10945.374862715631,
+        "y" : 82.57667297748327
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15344",
+        "shared_name" : "Node 173",
+        "name" : "Major Zhdaev",
+        "SUID" : 15344,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6841.426931549069,
+        "y" : 3803.9036100944177
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14512",
+        "shared_name" : "Node 172",
+        "name" : "G.M.B Haftung",
+        "SUID" : 14512,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11255.868319168974,
+        "y" : 4361.449364712399
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14514",
+        "shared_name" : "Node 171",
+        "name" : "Otto Gnahb",
+        "SUID" : 14514,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11259.909640582546,
+        "y" : 4195.45302569014
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14510",
+        "shared_name" : "Node 170",
+        "name" : "Frau Gnahb",
+        "SUID" : 14510,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11259.303500598198,
+        "y" : 4294.835733858408
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15333",
+        "shared_name" : "Node 166",
+        "name" : "Michiko",
+        "SUID" : 15333,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9713.329643433048,
+        "y" : 6520.652534188853
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14561",
+        "shared_name" : "Node 165",
+        "name" : "Sigmund",
+        "SUID" : 14561,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9207.107053894182,
+        "y" : 5991.829083142956
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13629",
+        "shared_name" : "Node 159",
+        "name" : "Klaus Narrisch",
+        "SUID" : 13629,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5196.068475197741,
+        "y" : 4319.5354988043
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13635",
+        "shared_name" : "Node 158",
+        "name" : "Prof Kurwes",
+        "SUID" : 13635,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5051.9463099348895,
+        "y" : 4197.054211774346
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13612",
+        "shared_name" : "Node 157",
+        "name" : "Bert Fibel",
+        "SUID" : 13612,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4910.556421872541,
+        "y" : 4113.296686264645
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13617",
+        "shared_name" : "Node 156",
+        "name" : "Flaum",
+        "SUID" : 13617,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5023.375222044223,
+        "y" : 4107.589610515521
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13623",
+        "shared_name" : "Node 155",
+        "name" : "Weichensteller",
+        "SUID" : 13623,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5019.065528463723,
+        "y" : 4297.956473184889
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13627",
+        "shared_name" : "Node 154",
+        "name" : "Horst Achtfaden",
+        "SUID" : 13627,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5158.255947967958,
+        "y" : 4210.373551739117
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13633",
+        "shared_name" : "Node 147",
+        "name" : "Major Forschner",
+        "SUID" : 13633,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4751.405928718265,
+        "y" : 4200.757968129261
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13619",
+        "shared_name" : "Node 146",
+        "name" : "Dr. Thiel",
+        "SUID" : 13619,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4794.391283458807,
+        "y" : 4326.538196945856
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13621",
+        "shared_name" : "Node 145",
+        "name" : "Fahringer",
+        "SUID" : 13621,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4912.825430022047,
+        "y" : 4225.778595621754
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13637",
+        "shared_name" : "Node 144",
+        "name" : "Dr. Wahmke",
+        "SUID" : 13637,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4921.639920337437,
+        "y" : 4312.46132519503
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15318",
+        "shared_name" : "Node 142",
+        "name" : "Dzabajev",
+        "SUID" : 15318,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4186.630761895892,
+        "y" : 5530.03188416668
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15316",
+        "shared_name" : "Node 141",
+        "name" : "Spyros \"Spider\" Telagiecstasis",
+        "SUID" : 15316,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11511.382454857243,
+        "y" : 3042.290295857787
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15314",
+        "shared_name" : "Node 140",
+        "name" : "Edouard Sanktwolke",
+        "SUID" : 15314,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7197.216778329503,
+        "y" : 3071.5602037655053
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13676",
+        "shared_name" : "Node 139",
+        "name" : "Graciela Imago Portales",
+        "SUID" : 13676,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10755.528522912911,
+        "y" : 2814.596260630885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13678",
+        "shared_name" : "Node 138",
+        "name" : "Felipe",
+        "SUID" : 13678,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10558.005338023275,
+        "y" : 2717.2941817512483
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13684",
+        "shared_name" : "Node 137",
+        "name" : "Luz",
+        "SUID" : 13684,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10677.104793922066,
+        "y" : 2665.820844814695
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13680",
+        "shared_name" : "Node 136",
+        "name" : "Belaustegui",
+        "SUID" : 13680,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10771.73640865046,
+        "y" : 2688.0528928540207
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13674",
+        "shared_name" : "Node 135",
+        "name" : "El Nato",
+        "SUID" : 13674,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10621.06236175848,
+        "y" : 2809.5534756079064
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14294",
+        "shared_name" : "Node 134",
+        "name" : "Raketemensch",
+        "SUID" : 14294,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9559.0,
+        "y" : 2006.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15304",
+        "shared_name" : "Node 132",
+        "name" : "Magda",
+        "SUID" : 15304,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9239.819235703548,
+        "y" : 3560.427126093108
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15302",
+        "shared_name" : "Node 131",
+        "name" : "Trudi",
+        "SUID" : 15302,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -8948.016907066682,
+        "y" : 3568.975872951753
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15300",
+        "shared_name" : "Node 130",
+        "name" : "Emil \"Suare\" Bummer",
+        "SUID" : 15300,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9191.837831946043,
+        "y" : 3360.2324763756474
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15298",
+        "shared_name" : "Node 125",
+        "name" : "Admiral Rozhdestvenski",
+        "SUID" : 15298,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4050.5071168966642,
+        "y" : 5842.708536415409
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15296",
+        "shared_name" : "Node 124",
+        "name" : "Dr. Maldetto",
+        "SUID" : 15296,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4080.4621278041195,
+        "y" : 5580.18942975082
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15294",
+        "shared_name" : "Node 122",
+        "name" : "Chu Piang",
+        "SUID" : 15294,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4285.171746647675,
+        "y" : 5676.468326041867
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15292",
+        "shared_name" : "Node 119",
+        "name" : "Schnorp",
+        "SUID" : 15292,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10921.163724787579,
+        "y" : 3520.4385386177973
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14479",
+        "shared_name" : "Node 114",
+        "name" : "Zwitter",
+        "SUID" : 14479,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11099.72726125296,
+        "y" : 3259.7773252600373
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15287",
+        "shared_name" : "Node 105",
+        "name" : "Geli Tripping",
+        "SUID" : 15287,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5388.377659428577,
+        "y" : 5669.091084948842
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13398",
+        "shared_name" : "Node 103",
+        "name" : "Hugo Stinnes",
+        "SUID" : 13398,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4594.315728145744,
+        "y" : 1578.2551456665765
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13394",
+        "shared_name" : "Node 102",
+        "name" : "Lyle Bland",
+        "SUID" : 13394,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7409.5652762866885,
+        "y" : 6868.280323821352
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15281",
+        "shared_name" : "Node 101",
+        "name" : "Major Duane Marvy",
+        "SUID" : 15281,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -8638.167802345739,
+        "y" : 1987.7399277608229
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14083",
+        "shared_name" : "Node 78",
+        "name" : "Keith",
+        "SUID" : 14083,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7718.983545868998,
+        "y" : -425.847377761741
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14087",
+        "shared_name" : "Node 77",
+        "name" : "Claire",
+        "SUID" : 14087,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7359.315931582992,
+        "y" : -336.2237309600765
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14079",
+        "shared_name" : "Node 76",
+        "name" : "Elizabeth",
+        "SUID" : 14079,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7450.046316408028,
+        "y" : -499.39744603471695
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14085",
+        "shared_name" : "Node 75",
+        "name" : "Penelope",
+        "SUID" : 14085,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7476.252061749696,
+        "y" : -611.2980426549935
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13432",
+        "shared_name" : "Node 74",
+        "name" : "Maude Chilkes",
+        "SUID" : 13432,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6351.64273920052,
+        "y" : 783.9435645401483
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15266",
+        "shared_name" : "Node 73",
+        "name" : "Heinz Rippenstoss",
+        "SUID" : 15266,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4609.690959856548,
+        "y" : 1388.0082882328288
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15264",
+        "shared_name" : "Node 72",
+        "name" : "Frau Silberschlag",
+        "SUID" : 15264,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5287.6630139883555,
+        "y" : 3027.8408959531166
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15262",
+        "shared_name" : "Node 71",
+        "name" : "Emil Rathenau",
+        "SUID" : 15262,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4572.715426869486,
+        "y" : 1488.0389811545347
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15260",
+        "shared_name" : "Node 69",
+        "name" : "Walter Rathenau",
+        "SUID" : 15260,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4331.532655850414,
+        "y" : 1441.1252591981433
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13625",
+        "shared_name" : "Node 68",
+        "name" : "Kurt Mondaugen",
+        "SUID" : 13625,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4897.467406005426,
+        "y" : 4171.38255709922
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15255",
+        "shared_name" : "Node 67",
+        "name" : "Max Schlepzig",
+        "SUID" : 15255,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6454.5272887846595,
+        "y" : 3968.5064698711717
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15253",
+        "shared_name" : "Node 66",
+        "name" : "Richard Hirsch",
+        "SUID" : 15253,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5347.035201310243,
+        "y" : 2914.925973488238
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13631",
+        "shared_name" : "Node 65",
+        "name" : "Franz Pokler",
+        "SUID" : 13631,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4160.541327537534,
+        "y" : 4045.1679072083366
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15250",
+        "shared_name" : "Node 64",
+        "name" : "Ilse Pokler",
+        "SUID" : 15250,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5355.678312085725,
+        "y" : 2782.3312484136172
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15248",
+        "shared_name" : "Node 63",
+        "name" : "Leni Pokler (Solange)",
+        "SUID" : 15248,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5566.59856320007,
+        "y" : 2940.304242602529
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13292",
+        "shared_name" : "Node 62",
+        "name" : "Sargner",
+        "SUID" : 13292,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7357.642679221203,
+        "y" : 6601.822266093422
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13288",
+        "shared_name" : "Node 61",
+        "name" : "Wimpe",
+        "SUID" : 13288,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7067.903255014505,
+        "y" : 6602.071935491282
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15244",
+        "shared_name" : "Node 60",
+        "name" : "Margaret Quartertones",
+        "SUID" : 15244,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5798.619379772053,
+        "y" : 605.6260052006237
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13557",
+        "shared_name" : "Node 59",
+        "name" : "Ronald Cherrycoke",
+        "SUID" : 13557,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6127.728061436862,
+        "y" : 887.6548290566744
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15241",
+        "shared_name" : "Node 58",
+        "name" : "Norah Dodson Truck",
+        "SUID" : 15241,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5483.955368077651,
+        "y" : 1688.8792954554765
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15239",
+        "shared_name" : "Node 56",
+        "name" : "Maggie Dunkirk",
+        "SUID" : 15239,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6529.433316156976,
+        "y" : -556.2141638093095
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15237",
+        "shared_name" : "Node 55",
+        "name" : "Mrs. Quoad",
+        "SUID" : 15237,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11067.183428486323,
+        "y" : 2267.7430087621583
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15235",
+        "shared_name" : "Node 54",
+        "name" : "Darlene",
+        "SUID" : 15235,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11090.53604793338,
+        "y" : 2069.4756147859302
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15233",
+        "shared_name" : "Node 53",
+        "name" : "Gerhardt Von Goll aka Der Springer",
+        "SUID" : 15233,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7216.076071847128,
+        "y" : 3359.681964915452
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15231",
+        "shared_name" : "Node 52",
+        "name" : "Frans Van der Groov",
+        "SUID" : 15231,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7892.485216083624,
+        "y" : 1689.5370322952374
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13250",
+        "shared_name" : "Node 50",
+        "name" : "Gottfried",
+        "SUID" : 13250,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7189.214744058379,
+        "y" : 1786.1488316999678
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13126",
+        "shared_name" : "Node 48",
+        "name" : "Katje Borgesius",
+        "SUID" : 13126,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7459.484149395062,
+        "y" : 1793.1815344474073
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13553",
+        "shared_name" : "Node 47",
+        "name" : "Myron Grunton",
+        "SUID" : 13553,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6176.212216873719,
+        "y" : 1129.6398588564398
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13555",
+        "shared_name" : "Node 46",
+        "name" : "Edwin Treacle",
+        "SUID" : 13555,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6608.411375982531,
+        "y" : 416.1926649748467
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13551",
+        "shared_name" : "Node 45",
+        "name" : "Reverend Dr. Paul de la Nuit",
+        "SUID" : 13551,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6080.451347494263,
+        "y" : 1308.5957091142855
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13543",
+        "shared_name" : "Node 44",
+        "name" : "Rosie",
+        "SUID" : 13543,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6009.477848893442,
+        "y" : 1120.5612658851605
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13536",
+        "shared_name" : "Node 43",
+        "name" : "Geza Rozsavolgyi",
+        "SUID" : 13536,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6094.017747200213,
+        "y" : 1195.7485019456008
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13562",
+        "shared_name" : "Node 42",
+        "name" : "Rollo Groast",
+        "SUID" : 13562,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6136.175215444457,
+        "y" : 1044.09407526206
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13118",
+        "shared_name" : "Node 41",
+        "name" : "Webley Silvernail",
+        "SUID" : 13118,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6127.525849210717,
+        "y" : 960.5416186788685
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15220",
+        "shared_name" : "Node 40",
+        "name" : "Whappo",
+        "SUID" : 15220,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11365.628150073935,
+        "y" : 1345.405025085201
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15218",
+        "shared_name" : "Node 39",
+        "name" : "Crutchfield the Westwardman",
+        "SUID" : 15218,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -12028.591225367594,
+        "y" : 1274.5805593408286
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14331",
+        "shared_name" : "Node 38",
+        "name" : "Jack Kennedy",
+        "SUID" : 14331,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11233.965137236457,
+        "y" : 1064.4343458815542
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14329",
+        "shared_name" : "Node 37",
+        "name" : "J. Peter Pitt",
+        "SUID" : 14329,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11226.971579839352,
+        "y" : 1146.5202004714502
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14333",
+        "shared_name" : "Node 36",
+        "name" : "Will Stoneybloke",
+        "SUID" : 14333,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11106.887561569214,
+        "y" : 1064.2188152937806
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14327",
+        "shared_name" : "Node 35",
+        "name" : "Dumpster Villard",
+        "SUID" : 14327,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11232.485478428458,
+        "y" : 986.55655967481
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14325",
+        "shared_name" : "Node 34",
+        "name" : "\"Gobbler\" Biddle",
+        "SUID" : 14325,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11107.289362529136,
+        "y" : 989.1769421845817
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15201",
+        "shared_name" : "Node 33",
+        "name" : "Malcom X aka \"Red\" the Shoeshine Boy",
+        "SUID" : 15201,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11396.874124669168,
+        "y" : 1259.7098114448966
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13110",
+        "shared_name" : "Node 32",
+        "name" : "Ernest Brigadier Pudding",
+        "SUID" : 13110,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6130.682516201576,
+        "y" : 810.6267113559207
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13290",
+        "shared_name" : "Node 31",
+        "name" : "Laszlo Jamf",
+        "SUID" : 13290,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7234.519672563362,
+        "y" : 6598.304767685062
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13545",
+        "shared_name" : "Node 30",
+        "name" : "Dr. Kevin Spectro",
+        "SUID" : 13545,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6141.376991411896,
+        "y" : 657.6817062961551
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13437",
+        "shared_name" : "Node 29",
+        "name" : "Edward W.A. Pointsman",
+        "SUID" : 13437,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6440.405527708323,
+        "y" : 660.8520024801488
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15195",
+        "shared_name" : "Node 28",
+        "name" : "Jeremy \"Beaver\"",
+        "SUID" : 15195,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6572.041661761786,
+        "y" : -349.2747091854004
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15193",
+        "shared_name" : "Node 27",
+        "name" : "Clive Mossmoon",
+        "SUID" : 15193,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -8267.87183035702,
+        "y" : 723.7939527544197
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15191",
+        "shared_name" : "Node 26",
+        "name" : "Scorpia Mossmoon",
+        "SUID" : 15191,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -8509.045655356927,
+        "y" : 696.6138439471199
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15189",
+        "shared_name" : "Node 25",
+        "name" : "Gavin Trefoil",
+        "SUID" : 15189,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5665.5886840692665,
+        "y" : 704.3712985497293
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15187",
+        "shared_name" : "Node 23",
+        "name" : "Selena",
+        "SUID" : 15187,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5240.670404984121,
+        "y" : 720.8206154829614
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15185",
+        "shared_name" : "Node 21",
+        "name" : "Peter Sascha",
+        "SUID" : 15185,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5118.688968139257,
+        "y" : 699.8957807809824
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15183",
+        "shared_name" : "Node 20",
+        "name" : "Roland Feldspath",
+        "SUID" : 15183,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10770.989909913334,
+        "y" : 1769.5487610134726
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15181",
+        "shared_name" : "Node 19",
+        "name" : "Milton Gloaming",
+        "SUID" : 15181,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6004.426655382538,
+        "y" : 344.71675709575254
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14081",
+        "shared_name" : "Node 18",
+        "name" : "Jessica Swanlake",
+        "SUID" : 14081,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7031.683522733443,
+        "y" : -580.7627927542422
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15176",
+        "shared_name" : "Node 8",
+        "name" : "Lord Blatherard Osmo",
+        "SUID" : 15176,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10402.59942467189,
+        "y" : -356.39317282182077
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13538",
+        "shared_name" : "Node 79",
+        "name" : "Dr. Porkeyevitch",
+        "SUID" : 13538,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6275.663198903365,
+        "y" : 1146.2271602346825
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13112",
+        "shared_name" : "Node 80",
+        "name" : "Sir Steven Dodson Truck",
+        "SUID" : 13112,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7146.777096217423,
+        "y" : 2688.690872649024
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13571",
+        "shared_name" : "Node 81",
+        "name" : "Aaron Throwster",
+        "SUID" : 13571,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6207.345473570773,
+        "y" : 1277.6483510015432
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14130",
+        "shared_name" : "Node 82",
+        "name" : "Sammy Hilbert Spaess",
+        "SUID" : 14130,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9549.0,
+        "y" : 50.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13169",
+        "shared_name" : "Node 83",
+        "name" : "Hilary Bounce",
+        "SUID" : 13169,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7703.788869510665,
+        "y" : 6598.119125701244
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13173",
+        "shared_name" : "Node 84",
+        "name" : "Isaac  Lubbock",
+        "SUID" : 13173,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7921.009918095511,
+        "y" : 6698.25146008736
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13167",
+        "shared_name" : "Node 85",
+        "name" : "Mr. Geoffrey Gollin",
+        "SUID" : 13167,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7917.277773803762,
+        "y" : 6569.144576243688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14643",
+        "shared_name" : "Node 86",
+        "name" : "Michele",
+        "SUID" : 14643,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7895.482305791772,
+        "y" : 6493.960503241631
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15160",
+        "shared_name" : "Node 87",
+        "name" : "Raoul de La Perlimpinpin",
+        "SUID" : 15160,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11098.933864188451,
+        "y" : 2500.0586556668463
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15158",
+        "shared_name" : "Node 88",
+        "name" : "Georges \"Poudre\" de la Perlimpinpin",
+        "SUID" : 15158,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11546.025452719015,
+        "y" : 2513.24618390071
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13116",
+        "shared_name" : "Node 89",
+        "name" : "Blodgett Waxwing",
+        "SUID" : 13116,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11667.579103804828,
+        "y" : 2847.3582264150637
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15153",
+        "shared_name" : "Node 90",
+        "name" : "Tamara",
+        "SUID" : 15153,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11841.586705611418,
+        "y" : 2770.1304643047797
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15151",
+        "shared_name" : "Node 91",
+        "name" : "Italo",
+        "SUID" : 15151,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11913.089006519109,
+        "y" : 2935.4077086101593
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14291",
+        "shared_name" : "Node 93",
+        "name" : "Ian Scuffling",
+        "SUID" : 14291,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9557.0,
+        "y" : 1953.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15146",
+        "shared_name" : "Node 94",
+        "name" : "Semyavin",
+        "SUID" : 15146,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10862.498297396187,
+        "y" : 2331.005605359678
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15144",
+        "shared_name" : "Node 95",
+        "name" : "Mario Schweitar",
+        "SUID" : 15144,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7690.185098431628,
+        "y" : 6360.7916863434875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13682",
+        "shared_name" : "Node 96",
+        "name" : "Francisco Squalidozzi",
+        "SUID" : 13682,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10668.944100172417,
+        "y" : 2725.2308900356456
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15141",
+        "shared_name" : "Node 97",
+        "name" : "Richard Haliburton",
+        "SUID" : 15141,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10874.92665873682,
+        "y" : 2578.846768068918
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15139",
+        "shared_name" : "Node 98",
+        "name" : "Harvey Speed",
+        "SUID" : 15139,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10656.632444668774,
+        "y" : 2570.8848845075954
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15137",
+        "shared_name" : "Node 99",
+        "name" : "Floyd Perdue",
+        "SUID" : 15137,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10565.014623595405,
+        "y" : 2564.8267954632247
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13171",
+        "shared_name" : "Node 100",
+        "name" : "Mr. Dennis Joint",
+        "SUID" : 13171,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7747.232759172306,
+        "y" : 6478.434716487452
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13748",
+        "shared_name" : "Node 210",
+        "name" : "Byron the Bulb",
+        "SUID" : 13748,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5531.0,
+        "y" : 6420.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13750",
+        "shared_name" : "Node 211",
+        "name" : "Hansel Geschwindig",
+        "SUID" : 13750,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5532.0,
+        "y" : 6521.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13715",
+        "shared_name" : "Node 213",
+        "name" : "Minnie Calkins",
+        "SUID" : 13715,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5169.589713565623,
+        "y" : 6429.062027401102
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13717",
+        "shared_name" : "Node 212",
+        "name" : "Jed Plunkitt",
+        "SUID" : 13717,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5163.667311746829,
+        "y" : 6340.48498152272
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13358",
+        "shared_name" : "Node 220",
+        "name" : "Ichizo",
+        "SUID" : 13358,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4849.3213573952635,
+        "y" : 6486.724849061657
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13360",
+        "shared_name" : "Node 219",
+        "name" : "Takeshi",
+        "SUID" : 13360,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4655.902100245642,
+        "y" : 6483.676743892544
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13032",
+        "shared_name" : "Node 152",
+        "name" : "Hopmann",
+        "SUID" : 13032,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5770.392569218459,
+        "y" : 5843.892924763424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13034",
+        "shared_name" : "Node 150",
+        "name" : "Lt. Rinso",
+        "SUID" : 13034,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5862.290897137086,
+        "y" : 5929.6611505433275
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13036",
+        "shared_name" : "Node 153",
+        "name" : "Kreuss",
+        "SUID" : 13036,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5766.84781879156,
+        "y" : 5918.268846407159
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13038",
+        "shared_name" : "Node 151",
+        "name" : "Steve",
+        "SUID" : 13038,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5874.187754069805,
+        "y" : 5852.193482417388
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13040",
+        "shared_name" : "Node 148",
+        "name" : "Albert Speer",
+        "SUID" : 13040,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5869.883108813611,
+        "y" : 5777.004275118681
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13042",
+        "shared_name" : "Node 149",
+        "name" : "Charles",
+        "SUID" : 13042,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5769.883108813617,
+        "y" : 5777.004275118681
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13875",
+        "shared_name" : "Node 120",
+        "name" : "Galina",
+        "SUID" : 13875,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4886.0,
+        "y" : 5796.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13877",
+        "shared_name" : "Node 121",
+        "name" : "Luba",
+        "SUID" : 13877,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4932.0,
+        "y" : 5854.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13882",
+        "shared_name" : "Node 123",
+        "name" : "Dzaqyp Qulan",
+        "SUID" : 13882,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4807.0,
+        "y" : 5882.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13323",
+        "shared_name" : "Node 207",
+        "name" : "Howard \"Slow\" Lerner",
+        "SUID" : 13323,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4398.256985596269,
+        "y" : 6166.2735743944995
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13325",
+        "shared_name" : "Node 206",
+        "name" : "Eddie Pensiero",
+        "SUID" : 13325,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4399.291629848568,
+        "y" : 6246.741152082123
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13327",
+        "shared_name" : "Node 208",
+        "name" : "Paddy \"Electro\" McGonigle",
+        "SUID" : 13327,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4400.480533338297,
+        "y" : 6091.463156895836
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13208",
+        "shared_name" : "Node 106",
+        "name" : "Vaslav Tchitcherine",
+        "SUID" : 13208,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5116.0,
+        "y" : 5706.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13210",
+        "shared_name" : "Node 128",
+        "name" : "Igor Blobadjion",
+        "SUID" : 13210,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5119.9865420601955,
+        "y" : 6071.285819180765
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13212",
+        "shared_name" : "Node 127",
+        "name" : "Radnichny",
+        "SUID" : 13212,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5120.890560410169,
+        "y" : 6144.60164972809
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13214",
+        "shared_name" : "Node 126",
+        "name" : "Shatsk",
+        "SUID" : 13214,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5123.039926702477,
+        "y" : 5997.538124549898
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14477",
+        "shared_name" : "Node 108",
+        "name" : "Nick de Profundis",
+        "SUID" : 14477,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11244.778130851862,
+        "y" : 3265.744304542926
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14475",
+        "shared_name" : "Node 107",
+        "name" : "Yellow James",
+        "SUID" : 14475,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11299.89886836374,
+        "y" : 3200.8987503371413
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14471",
+        "shared_name" : "Node 110",
+        "name" : "\"Micro\" Graham",
+        "SUID" : 14471,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11170.654794898386,
+        "y" : 3202.1702317921568
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14473",
+        "shared_name" : "Node 113",
+        "name" : "Glimpf",
+        "SUID" : 14473,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10938.742202970929,
+        "y" : 3204.2503041789664
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14467",
+        "shared_name" : "Node 111",
+        "name" : "Etzel Olsch",
+        "SUID" : 14467,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11043.953684343063,
+        "y" : 3202.1702317921563
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14469",
+        "shared_name" : "Node 112",
+        "name" : "Apprentice Huppla",
+        "SUID" : 14469,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10964.29738762331,
+        "y" : 3255.5724529028025
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13114",
+        "shared_name" : "Node 1",
+        "name" : "Geoffrey \"Pirate\" Prentice",
+        "SUID" : 13114,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9752.0,
+        "y" : 38.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14171",
+        "shared_name" : "Node 7",
+        "name" : "Joaquin Stick",
+        "SUID" : 14171,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10446.27883823598,
+        "y" : -224.84323730451155
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13124",
+        "shared_name" : "Node 3",
+        "name" : "Osbie Feel",
+        "SUID" : 13124,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10229.678348535374,
+        "y" : 78.16305041570246
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15089",
+        "shared_name" : "Node 2",
+        "name" : "Teddy Bloat",
+        "SUID" : 15089,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9341.742429375228,
+        "y" : 1429.7695077771361
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15087",
+        "shared_name" : "Node 4",
+        "name" : "Bartley Gobbitch",
+        "SUID" : 15087,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10729.360215177165,
+        "y" : -58.97018919765446
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14173",
+        "shared_name" : "Node 5",
+        "name" : "Decoverly Pox",
+        "SUID" : 14173,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10442.258482818468,
+        "y" : -138.58356106486235
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14169",
+        "shared_name" : "Node 6",
+        "name" : "Maurice \"Saxophone\" Reed",
+        "SUID" : 14169,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10470.17921216286,
+        "y" : -47.88420831270375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13829",
+        "shared_name" : "Node 167",
+        "name" : "Drohne",
+        "SUID" : 13829,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5430.27475403273,
+        "y" : 5859.083140239488
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14559",
+        "shared_name" : "Node 129",
+        "name" : "Margherita/Greta Erdmann",
+        "SUID" : 14559,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9444.910835987197,
+        "y" : 5917.106925301144
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13245",
+        "shared_name" : "Node 49",
+        "name" : "Lt. Weissman aka Captain Blicero",
+        "SUID" : 13245,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7412.831650598786,
+        "y" : 1855.6629083892096
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13286",
+        "shared_name" : "Node 70",
+        "name" : "Generaldirektor Smarasd",
+        "SUID" : 13286,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4334.597501213949,
+        "y" : 1293.724524374663
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14607",
+        "shared_name" : "Node 92",
+        "name" : "Carothers of Dupont",
+        "SUID" : 14607,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7512.595985098676,
+        "y" : 6600.6481022311755
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15029",
+        "shared_name" : "Krupp Dinner",
+        "name" : "",
+        "NumChildren" : 4,
+        "SUID" : 15029,
+        "NumDescendents" : 4,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5163.5,
+        "y" : 6587.5
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14994",
+        "shared_name" : "Story of Byron the Bulb",
+        "name" : "",
+        "NumChildren" : 2,
+        "SUID" : 14994,
+        "NumDescendents" : 2,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5531.5,
+        "y" : 6470.5
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14959",
+        "shared_name" : "Long Enough Magazine",
+        "name" : "",
+        "NumChildren" : 2,
+        "SUID" : 14959,
+        "NumDescendents" : 2,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5166.628512656226,
+        "y" : 6384.773504461911
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14924",
+        "shared_name" : "Kamikaze Pilots",
+        "name" : "",
+        "NumChildren" : 2,
+        "SUID" : 14924,
+        "NumDescendents" : 2,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4752.611728820453,
+        "y" : 6485.2007964771
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14886",
+        "shared_name" : "US Army",
+        "name" : "",
+        "NumChildren" : 3,
+        "SUID" : 14886,
+        "NumDescendents" : 3,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4399.368759467283,
+        "y" : 6169.102154488979
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14847",
+        "shared_name" : "Teaching NTA",
+        "name" : "",
+        "NumChildren" : 4,
+        "SUID" : 14847,
+        "NumDescendents" : 4,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4961.5,
+        "y" : 5794.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14808",
+        "shared_name" : "NTA Comittees",
+        "name" : "",
+        "NumChildren" : 4,
+        "SUID" : 14808,
+        "NumDescendents" : 4,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5119.519963351238,
+        "y" : 5925.300824864045
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14761",
+        "shared_name" : "Toiletship",
+        "name" : "",
+        "NumChildren" : 6,
+        "SUID" : 14761,
+        "NumDescendents" : 6,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5820.5177864306825,
+        "y" : 5853.332712831005
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14701",
+        "shared_name" : "German Rocketeers",
+        "name" : "",
+        "NumChildren" : 11,
+        "SUID" : 14701,
+        "NumDescendents" : 11,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4678.304901367637,
+        "y" : 4185.853052077096
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14657",
+        "shared_name" : "Bland Family",
+        "name" : "",
+        "NumChildren" : 5,
+        "SUID" : 14657,
+        "NumDescendents" : 5,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7452.288221648822,
+        "y" : 6923.1582546517
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14614",
+        "shared_name" : "Shell International Petroleum",
+        "name" : "",
+        "NumChildren" : 5,
+        "SUID" : 14614,
+        "NumDescendents" : 5,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7812.399393803088,
+        "y" : 6588.343088287405
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14575",
+        "shared_name" : "IG Farben",
+        "name" : "",
+        "NumChildren" : 5,
+        "SUID" : 14575,
+        "NumDescendents" : 5,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7385.846062262584,
+        "y" : 6600.095530596263
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14518",
+        "shared_name" : "The Anubis",
+        "name" : "",
+        "NumChildren" : 10,
+        "SUID" : 14518,
+        "NumDescendents" : 10,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9426.95743969327,
+        "y" : 6057.822860779021
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14481",
+        "shared_name" : "",
+        "name" : "",
+        "NumChildren" : 3,
+        "SUID" : 14481,
+        "NumDescendents" : 3,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11257.88897987576,
+        "y" : 4278.451195201269
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14438",
+        "shared_name" : "Mittelwerke",
+        "name" : "",
+        "NumChildren" : 7,
+        "SUID" : 14438,
+        "NumDescendents" : 7,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11119.320535667335,
+        "y" : 3233.3215274400336
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14391",
+        "shared_name" : "Argentinian Anarchists",
+        "name" : "",
+        "NumChildren" : 6,
+        "SUID" : 14391,
+        "NumDescendents" : 6,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10664.870873336868,
+        "y" : 2740.20855272279
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14335",
+        "shared_name" : "Slothrops",
+        "name" : "",
+        "NumChildren" : 9,
+        "SUID" : 14335,
+        "NumDescendents" : 9,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11311.611889441287,
+        "y" : 1734.0606827233928
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14296",
+        "shared_name" : "Harvard",
+        "name" : "",
+        "NumChildren" : 5,
+        "SUID" : 14296,
+        "NumDescendents" : 5,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11170.426349402835,
+        "y" : 1066.5383800731302
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14262",
+        "shared_name" : "Tyrone Slothrop",
+        "name" : "",
+        "NumChildren" : 3,
+        "SUID" : 14262,
+        "NumDescendents" : 3,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9558.0,
+        "y" : 1951.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14224",
+        "shared_name" : "The Floundering Four",
+        "name" : "",
+        "NumChildren" : 4,
+        "SUID" : 14224,
+        "NumDescendents" : 4,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9381.5,
+        "y" : 1869.5
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14215",
+        "shared_name" : "Node 9",
+        "name" : "Lt. Oliver (\"Tantivy\") Mucker Maffick",
+        "SUID" : 14215,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9659.919752580121,
+        "y" : 1586.3420620821655
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14186",
+        "shared_name" : "ACHTUNG",
+        "name" : "",
+        "NumChildren" : 2,
+        "SUID" : 14186,
+        "NumDescendents" : 2,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9608.95987629006,
+        "y" : 1741.1710310410826
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14139",
+        "shared_name" : "SOE",
+        "name" : "",
+        "NumChildren" : 5,
+        "SUID" : 14139,
+        "NumDescendents" : 5,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10111.08960608143,
+        "y" : -73.34009344440454
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14101",
+        "shared_name" : "In Hell",
+        "name" : "",
+        "NumChildren" : 4,
+        "SUID" : 14101,
+        "NumDescendents" : 4,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9645.0,
+        "y" : -15.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14050",
+        "shared_name" : "Swanlakes",
+        "name" : "",
+        "NumChildren" : 5,
+        "SUID" : 14050,
+        "NumDescendents" : 5,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7375.33353430122,
+        "y" : -473.76088680753503
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14018",
+        "shared_name" : "Hansel/Gretel BDSM",
+        "name" : "",
+        "NumChildren" : 3,
+        "SUID" : 14018,
+        "NumDescendents" : 3,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7324.349446726721,
+        "y" : 1820.9058700445887
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13952",
+        "shared_name" : "Schwarzkommando",
+        "name" : "",
+        "NumChildren" : 13,
+        "SUID" : 13952,
+        "NumDescendents" : 13,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6183.427908771526,
+        "y" : 1830.5387516569876
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13884",
+        "shared_name" : "The White Visitation",
+        "name" : "",
+        "NumChildren" : 17,
+        "SUID" : 13884,
+        "NumDescendents" : 17,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6308.9446124379865,
+        "y" : 862.394187044566
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "14569",
+        "source" : "14553",
+        "target" : "14559",
+        "shared_name" : "Ensign Morituri (interacts with) Margherita/Greta Erdmann",
+        "name" : "Ensign Morituri (interacts with) Margherita/Greta Erdmann",
+        "interaction" : "catches sacrificing children",
+        "SUID" : 14569,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15799",
+        "source" : "13120",
+        "target" : "15089",
+        "shared_name" : "Roger Mexico (interacts with) Teddy Bloat",
+        "name" : "Roger Mexico (interacts with) Teddy Bloat",
+        "interaction" : "delivers film to",
+        "SUID" : 15799,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15797",
+        "source" : "15507",
+        "target" : "15185",
+        "shared_name" : "Carrol Eventyr (interacts with) Peter Sascha",
+        "name" : "Carrol Eventyr (interacts with) Peter Sascha",
+        "interaction" : "control of",
+        "SUID" : 15797,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15795",
+        "source" : "15507",
+        "target" : "15241",
+        "shared_name" : "Carrol Eventyr (interacts with) Norah Dodson Truck",
+        "name" : "Carrol Eventyr (interacts with) Norah Dodson Truck",
+        "interaction" : "",
+        "SUID" : 15795,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13499",
+        "source" : "13479",
+        "target" : "13489",
+        "shared_name" : "",
+        "name" : "",
+        "interaction" : "",
+        "SUID" : 13499,
+        "shared_interaction" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13501",
+        "source" : "13487",
+        "target" : "13483",
+        "shared_name" : "Oberst Enzian (interacts with) Henrik the Hare",
+        "name" : "Oberst Enzian (interacts with) Henrik the Hare",
+        "interaction" : "drives for",
+        "SUID" : 13501,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13503",
+        "source" : "13487",
+        "target" : "13489",
+        "shared_name" : "",
+        "name" : "",
+        "interaction" : "",
+        "SUID" : 13503,
+        "shared_interaction" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15793",
+        "source" : "13487",
+        "target" : "15281",
+        "shared_name" : "Oberst Enzian (interacts with) Major Duane Marvy",
+        "name" : "Oberst Enzian (interacts with) Major Duane Marvy",
+        "interaction" : "throws off train",
+        "SUID" : 15793,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15791",
+        "source" : "13487",
+        "target" : "13208",
+        "shared_name" : "Oberst Enzian (interacts with) Vaslav Tchitcherine",
+        "name" : "Oberst Enzian (interacts with) Vaslav Tchitcherine",
+        "interaction" : "half brothers",
+        "SUID" : 15791,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15789",
+        "source" : "13487",
+        "target" : "13245",
+        "shared_name" : "Oberst Enzian (interacts with) Lt. Weissman aka Captain Blicero",
+        "name" : "Oberst Enzian (interacts with) Lt. Weissman aka Captain Blicero",
+        "interaction" : "lovers in Sudwest",
+        "SUID" : 15789,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13505",
+        "source" : "13493",
+        "target" : "13479",
+        "shared_name" : "Pavel (interacts with) Maria",
+        "name" : "Pavel (interacts with) Maria",
+        "interaction" : "married",
+        "SUID" : 13505,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15787",
+        "source" : "13787",
+        "target" : "15300",
+        "shared_name" : "Gustav Schlabone (interacts with) Emil \"Suare\" Bummer",
+        "name" : "Gustav Schlabone (interacts with) Emil \"Suare\" Bummer",
+        "interaction" : "doping partner",
+        "SUID" : 15787,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15785",
+        "source" : "13794",
+        "target" : "15300",
+        "shared_name" : "Seaman Bodine (interacts with) Emil \"Suare\" Bummer",
+        "name" : "Seaman Bodine (interacts with) Emil \"Suare\" Bummer",
+        "interaction" : "coordinate drug deal with Slothrop",
+        "SUID" : 15785,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15783",
+        "source" : "13794",
+        "target" : "15281",
+        "shared_name" : "Seaman Bodine (interacts with) Major Duane Marvy",
+        "name" : "Seaman Bodine (interacts with) Major Duane Marvy",
+        "interaction" : "sells coke to",
+        "SUID" : 15783,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15781",
+        "source" : "13794",
+        "target" : "15378",
+        "shared_name" : "Seaman Bodine (interacts with) Albert Krypton",
+        "name" : "Seaman Bodine (interacts with) Albert Krypton",
+        "interaction" : "sells cocaine to",
+        "SUID" : 15781,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14567",
+        "source" : "14551",
+        "target" : "14559",
+        "shared_name" : "Bianca Erdmann (interacts with) Margherita/Greta Erdmann",
+        "name" : "Bianca Erdmann (interacts with) Margherita/Greta Erdmann",
+        "interaction" : "daughter of",
+        "SUID" : 14567,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14571",
+        "source" : "14557",
+        "target" : "14565",
+        "shared_name" : "Stefania Procalowska (interacts with) Antoni Procalowski",
+        "name" : "Stefania Procalowska (interacts with) Antoni Procalowski",
+        "interaction" : "married",
+        "SUID" : 14571,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14219",
+        "source" : "14217",
+        "target" : "14215",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Lt. Oliver \"Tantivy\" Mucker Maffick",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Lt. Oliver \"Tantivy\" Mucker Maffick",
+        "interaction" : "deskmates",
+        "SUID" : 14219,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15779",
+        "source" : "14217",
+        "target" : "14553",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Ensign Morituri",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Ensign Morituri",
+        "interaction" : "story of Margherita to",
+        "SUID" : 15779,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15777",
+        "source" : "14217",
+        "target" : "13794",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Seaman Bodine",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Seaman Bodine",
+        "interaction" : "retreieves hashish from Potsdam for",
+        "SUID" : 15777,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15775",
+        "source" : "14217",
+        "target" : "14557",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Stefania Procalowska",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Stefania Procalowska",
+        "interaction" : "helps onto the Anubis",
+        "SUID" : 15775,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15773",
+        "source" : "14217",
+        "target" : "14473",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Glimpf",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Glimpf",
+        "interaction" : "helps escape from Marvy",
+        "SUID" : 15773,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15771",
+        "source" : "14217",
+        "target" : "15356",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Ludwig",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Ludwig",
+        "interaction" : "searches for lemming with",
+        "SUID" : 15771,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15769",
+        "source" : "14217",
+        "target" : "15400",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Rohr",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Rohr",
+        "interaction" : "keeper of low frequency antenna",
+        "SUID" : 15769,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15767",
+        "source" : "14217",
+        "target" : "14379",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Naline Slothrop",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Naline Slothrop",
+        "interaction" : "son of",
+        "SUID" : 15767,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15765",
+        "source" : "14217",
+        "target" : "15300",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Emil \"Suare\" Bummer",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Emil \"Suare\" Bummer",
+        "interaction" : "smokes weed with",
+        "SUID" : 15765,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15763",
+        "source" : "14217",
+        "target" : "15382",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Shirley",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Shirley",
+        "interaction" : "escapes MPs with",
+        "SUID" : 15763,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15761",
+        "source" : "14217",
+        "target" : "13631",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Franz Pokler",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Franz Pokler",
+        "interaction" : "meet at Zwolfkinder",
+        "SUID" : 15761,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15759",
+        "source" : "14217",
+        "target" : "15183",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Roland Feldspath",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Roland Feldspath",
+        "interaction" : "speaks to from the beyond about rockets",
+        "SUID" : 15759,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15757",
+        "source" : "14217",
+        "target" : "13126",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Katje Borgesius",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Katje Borgesius",
+        "interaction" : "saves from Grigori, fucks",
+        "SUID" : 15757,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15755",
+        "source" : "14217",
+        "target" : "13208",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Vaslav Tchitcherine",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Vaslav Tchitcherine",
+        "interaction" : "runs into at Peenemunde",
+        "SUID" : 15755,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15753",
+        "source" : "14217",
+        "target" : "14325",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) \"Gobbler\" Biddle",
+        "name" : "Lt. Tyrone Slothrop (interacts with) \"Gobbler\" Biddle",
+        "interaction" : "identifies shit of, P. 255",
+        "SUID" : 15753,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15751",
+        "source" : "14217",
+        "target" : "14331",
+        "shared_name" : "Node 10 (interacts with) Node 38",
+        "name" : "Node 10 (interacts with) Node 38",
+        "interaction" : "identifies shit of",
+        "SUID" : 15751,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15749",
+        "source" : "14217",
+        "target" : "15235",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Darlene",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Darlene",
+        "interaction" : "have sex",
+        "SUID" : 15749,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15747",
+        "source" : "14217",
+        "target" : "15237",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Mrs. Quoad",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Mrs. Quoad",
+        "interaction" : "disgusting candy from",
+        "SUID" : 15747,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15745",
+        "source" : "14217",
+        "target" : "15160",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Raoul de La Perlimpinpin",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Raoul de La Perlimpinpin",
+        "interaction" : "attends party of",
+        "SUID" : 15745,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15743",
+        "source" : "14217",
+        "target" : "13116",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Blodgett Waxwing",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Blodgett Waxwing",
+        "interaction" : "envelope from",
+        "SUID" : 15743,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15741",
+        "source" : "14217",
+        "target" : "13682",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Francisco Squalidozzi",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Francisco Squalidozzi",
+        "interaction" : "delivers info for",
+        "SUID" : 15741,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15739",
+        "source" : "14217",
+        "target" : "15141",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Richard Haliburton",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Richard Haliburton",
+        "interaction" : "P. 266",
+        "SUID" : 15739,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15737",
+        "source" : "14217",
+        "target" : "15137",
+        "shared_name" : "Floyd Perdue (interacts with) Lt. Tyrone Slothrop",
+        "name" : "Floyd Perdue (interacts with) Lt. Tyrone Slothrop",
+        "interaction" : "investigates",
+        "SUID" : 15737,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15735",
+        "source" : "14217",
+        "target" : "15139",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Harvey Speed",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Harvey Speed",
+        "interaction" : "investigates",
+        "SUID" : 15735,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15733",
+        "source" : "14217",
+        "target" : "15281",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Major Duane Marvy",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Major Duane Marvy",
+        "interaction" : "warns of Schwarzkommando, attempts to capture",
+        "SUID" : 15733,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15731",
+        "source" : "14217",
+        "target" : "13169",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Hilary Bounce",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Hilary Bounce",
+        "interaction" : "teaches propulsion to",
+        "SUID" : 15731,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15729",
+        "source" : "14217",
+        "target" : "15218",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Crutchfield the Westwardman",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Crutchfield the Westwardman",
+        "interaction" : "hallucinates",
+        "SUID" : 15729,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15727",
+        "source" : "14217",
+        "target" : "15287",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Geli Tripping",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Geli Tripping",
+        "interaction" : "sex with",
+        "SUID" : 15727,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15725",
+        "source" : "14217",
+        "target" : "14559",
+        "shared_name" : "Lt. Tyrone Slothrop (interacts with) Margherita/Greta Erdmann",
+        "name" : "Lt. Tyrone Slothrop (interacts with) Margherita/Greta Erdmann",
+        "interaction" : "fucks",
+        "SUID" : 15725,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14389",
+        "source" : "14381",
+        "target" : "14373",
+        "shared_name" : "Mrs. Elizabeth (interacts with) Lt. Isaiah Slothrop",
+        "name" : "Mrs. Elizabeth (interacts with) Lt. Isaiah Slothrop",
+        "interaction" : "wife of",
+        "SUID" : 14389,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14383",
+        "source" : "13396",
+        "target" : "14379",
+        "shared_name" : "Broderick Slothrop (interacts with) Naline Slothrop",
+        "name" : "Broderick Slothrop (interacts with) Naline Slothrop",
+        "interaction" : "married",
+        "SUID" : 14383,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14385",
+        "source" : "14369",
+        "target" : "14379",
+        "shared_name" : "Frederick Slothrop (interacts with) Naline Slothrop",
+        "name" : "Frederick Slothrop (interacts with) Naline Slothrop",
+        "interaction" : "father of",
+        "SUID" : 14385,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14387",
+        "source" : "14375",
+        "target" : "14367",
+        "shared_name" : "Constant Slothrop (interacts with) Variable Slothrop",
+        "name" : "Constant Slothrop (interacts with) Variable Slothrop",
+        "interaction" : "father of",
+        "SUID" : 14387,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15723",
+        "source" : "15422",
+        "target" : "15420",
+        "shared_name" : "Richard M Zhlubb (interacts with) Steve Edelman",
+        "name" : "Richard M Zhlubb (interacts with) Steve Edelman",
+        "interaction" : "",
+        "SUID" : 15723,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15721",
+        "source" : "15418",
+        "target" : "15412",
+        "shared_name" : "Kim (interacts with) Marjorie",
+        "name" : "Kim (interacts with) Marjorie",
+        "interaction" : "daughter of",
+        "SUID" : 15721,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15719",
+        "source" : "15416",
+        "target" : "15412",
+        "shared_name" : "Pete Dufay (interacts with) Marjorie",
+        "name" : "Pete Dufay (interacts with) Marjorie",
+        "interaction" : "marries",
+        "SUID" : 15719,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15717",
+        "source" : "15416",
+        "target" : "15418",
+        "shared_name" : "Pete Dufay (interacts with) Kim",
+        "name" : "Pete Dufay (interacts with) Kim",
+        "interaction" : "father of",
+        "SUID" : 15717,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15715",
+        "source" : "15414",
+        "target" : "15412",
+        "shared_name" : "Hogan (interacts with) Marjorie",
+        "name" : "Hogan (interacts with) Marjorie",
+        "interaction" : "courts",
+        "SUID" : 15715,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15713",
+        "source" : "15414",
+        "target" : "15416",
+        "shared_name" : "Hogan (interacts with) Pete Dufay",
+        "name" : "Hogan (interacts with) Pete Dufay",
+        "interaction" : "loses to",
+        "SUID" : 15713,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15711",
+        "source" : "15402",
+        "target" : "13288",
+        "shared_name" : "Minne Khlaetsch (interacts with) Wimpe",
+        "name" : "Minne Khlaetsch (interacts with) Wimpe",
+        "interaction" : "girlfriend of",
+        "SUID" : 15711,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15709",
+        "source" : "15402",
+        "target" : "15300",
+        "shared_name" : "Minne Khlaetsch (interacts with) Emil \"Suare\" Bummer",
+        "name" : "Minne Khlaetsch (interacts with) Emil \"Suare\" Bummer",
+        "interaction" : "burglarized by",
+        "SUID" : 15709,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15707",
+        "source" : "15398",
+        "target" : "13536",
+        "shared_name" : "Sandor Roszavolgyi (interacts with) Geza Rozsavolgyi",
+        "name" : "Sandor Roszavolgyi (interacts with) Geza Rozsavolgyi",
+        "interaction" : "father of",
+        "SUID" : 15707,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13577",
+        "source" : "13566",
+        "target" : "13120",
+        "shared_name" : "Miss Muller Hochleben (interacts with) Roger Mexico",
+        "name" : "Miss Muller Hochleben (interacts with) Roger Mexico",
+        "interaction" : "glasses crushed by",
+        "SUID" : 13577,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15705",
+        "source" : "15392",
+        "target" : "13114",
+        "shared_name" : "Margaret Dumont (interacts with) Geoffrey \"Pirate\" Prentice \"Pirate\" Prentice",
+        "name" : "Margaret Dumont (interacts with) Geoffrey \"Pirate\" Prentice \"Pirate\" Prentice",
+        "interaction" : "hears flying a hijacked P47 to Berlin",
+        "SUID" : 15705,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15703",
+        "source" : "15390",
+        "target" : "13114",
+        "shared_name" : "Bette Davis (interacts with) Geoffrey \"Pirate\" Prentice \"Pirate\" Prentice",
+        "name" : "Bette Davis (interacts with) Geoffrey \"Pirate\" Prentice \"Pirate\" Prentice",
+        "interaction" : "hears flying a hijacked P47 to Berlin",
+        "SUID" : 15703,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15701",
+        "source" : "15388",
+        "target" : "15193",
+        "shared_name" : "Sir Marcus Scammony (interacts with) Clive Mossmoon",
+        "name" : "Sir Marcus Scammony (interacts with) Clive Mossmoon",
+        "interaction" : "discuss Slothrop",
+        "SUID" : 15701,
+        "shared_interaction" : "discuss Slothrop",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15699",
+        "source" : "15386",
+        "target" : "13208",
+        "shared_name" : "Mravenko (interacts with) Vaslav Tchitcherine",
+        "name" : "Mravenko (interacts with) Vaslav Tchitcherine",
+        "interaction" : "",
+        "SUID" : 15699,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15697",
+        "source" : "15384",
+        "target" : "15281",
+        "shared_name" : "Manuela (interacts with) Major Duane Marvy",
+        "name" : "Manuela (interacts with) Major Duane Marvy",
+        "interaction" : "fucks",
+        "SUID" : 15697,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15695",
+        "source" : "15382",
+        "target" : "15378",
+        "shared_name" : "Shirley (interacts with) Albert Krypton",
+        "name" : "Shirley (interacts with) Albert Krypton",
+        "interaction" : "",
+        "SUID" : 15695,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15693",
+        "source" : "15380",
+        "target" : "15382",
+        "shared_name" : "Pharmacist Birdbury (interacts with) Shirley",
+        "name" : "Pharmacist Birdbury (interacts with) Shirley",
+        "interaction" : "",
+        "SUID" : 15693,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15691",
+        "source" : "15380",
+        "target" : "15378",
+        "shared_name" : "Pharmacist Birdbury (interacts with) Albert Krypton",
+        "name" : "Pharmacist Birdbury (interacts with) Albert Krypton",
+        "interaction" : "",
+        "SUID" : 15691,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15689",
+        "source" : "15374",
+        "target" : "15376",
+        "shared_name" : "Avery Purfle (interacts with) St. John Bladdery",
+        "name" : "Avery Purfle (interacts with) St. John Bladdery",
+        "interaction" : "spoon fight",
+        "SUID" : 15689,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15687",
+        "source" : "15370",
+        "target" : "15281",
+        "shared_name" : "Dr. Spontoon (interacts with) Major Duane Marvy",
+        "name" : "Dr. Spontoon (interacts with) Major Duane Marvy",
+        "interaction" : "castrate",
+        "SUID" : 15687,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15685",
+        "source" : "15370",
+        "target" : "13437",
+        "shared_name" : "Dr. Spontoon (interacts with) Edward W.A. Pointsman",
+        "name" : "Dr. Spontoon (interacts with) Edward W.A. Pointsman",
+        "interaction" : "try to castrate Slohtrop for",
+        "SUID" : 15685,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15683",
+        "source" : "15370",
+        "target" : "15372",
+        "shared_name" : "Dr. Spontoon (interacts with) General Wivern",
+        "name" : "Dr. Spontoon (interacts with) General Wivern",
+        "interaction" : "look for in Cuxhaven",
+        "SUID" : 15683,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15681",
+        "source" : "15368",
+        "target" : "13437",
+        "shared_name" : "Dr. Muffage (interacts with) Edward W.A. Pointsman",
+        "name" : "Dr. Muffage (interacts with) Edward W.A. Pointsman",
+        "interaction" : "try to castrate Slothrop for",
+        "SUID" : 15681,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15679",
+        "source" : "15368",
+        "target" : "15372",
+        "shared_name" : "Dr. Muffage (interacts with) General Wivern",
+        "name" : "Dr. Muffage (interacts with) General Wivern",
+        "interaction" : "look for in Cuxhaven",
+        "SUID" : 15679,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15677",
+        "source" : "15362",
+        "target" : "13394",
+        "shared_name" : "Alfonso Tracy (interacts with) Lyle Bland",
+        "name" : "Alfonso Tracy (interacts with) Lyle Bland",
+        "interaction" : "shows broken pinball machines to",
+        "SUID" : 15677,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15675",
+        "source" : "15360",
+        "target" : "13394",
+        "shared_name" : "Pflaumbaum (interacts with) Lyle Bland",
+        "name" : "Pflaumbaum (interacts with) Lyle Bland",
+        "interaction" : "P. 582",
+        "SUID" : 15675,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15673",
+        "source" : "15358",
+        "target" : "15281",
+        "shared_name" : "Old Bloody Chiclitz (interacts with) Major Duane Marvy",
+        "name" : "Old Bloody Chiclitz (interacts with) Major Duane Marvy",
+        "interaction" : "",
+        "SUID" : 15673,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15671",
+        "source" : "15348",
+        "target" : "13124",
+        "shared_name" : "S.Z. \"Cuddles\" Sakall (interacts with) Osbie Feel",
+        "name" : "S.Z. \"Cuddles\" Sakall (interacts with) Osbie Feel",
+        "interaction" : "character of",
+        "SUID" : 15671,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15669",
+        "source" : "15346",
+        "target" : "13124",
+        "shared_name" : "Basil Rathbone (interacts with) Osbie Feel",
+        "name" : "Basil Rathbone (interacts with) Osbie Feel",
+        "interaction" : "character of",
+        "SUID" : 15669,
+        "shared_interaction" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15667",
+        "source" : "15344",
+        "target" : "13208",
+        "shared_name" : "Major Zhdaev (interacts with) Vaslav Tchitcherine",
+        "name" : "Major Zhdaev (interacts with) Vaslav Tchitcherine",
+        "interaction" : "together at Peenemunde",
+        "SUID" : 15667,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14516",
+        "source" : "14514",
+        "target" : "14510",
+        "shared_name" : "Otto Gnahb (interacts with) Frau Gnahb",
+        "name" : "Otto Gnahb (interacts with) Frau Gnahb",
+        "interaction" : "son of",
+        "SUID" : 14516,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15665",
+        "source" : "14514",
+        "target" : "14217",
+        "shared_name" : "Otto Gnahb (interacts with) Lt. Tyrone Slothrop",
+        "name" : "Otto Gnahb (interacts with) Lt. Tyrone Slothrop",
+        "interaction" : "rescues from Oder Haff",
+        "SUID" : 15665,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15663",
+        "source" : "15333",
+        "target" : "14553",
+        "shared_name" : "Michiko (interacts with) Ensign Morituri",
+        "name" : "Michiko (interacts with) Ensign Morituri",
+        "interaction" : "married",
+        "SUID" : 15663,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13641",
+        "source" : "13629",
+        "target" : "13627",
+        "shared_name" : "Klaus Narrisch (interacts with) Horst Achtfaden",
+        "name" : "Klaus Narrisch (interacts with) Horst Achtfaden",
+        "interaction" : "betrayed by",
+        "SUID" : 13641,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15661",
+        "source" : "13612",
+        "target" : "13398",
+        "shared_name" : "Bert Fibel (interacts with) Hugo Stinnes",
+        "name" : "Bert Fibel (interacts with) Hugo Stinnes",
+        "interaction" : "intelligence agent for",
+        "SUID" : 15661,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15659",
+        "source" : "13612",
+        "target" : "13394",
+        "shared_name" : "Bert Fibel (interacts with) Lyle Bland",
+        "name" : "Bert Fibel (interacts with) Lyle Bland",
+        "interaction" : "fixes pinball machines, spies on Slothrop for",
+        "SUID" : 15659,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15657",
+        "source" : "13627",
+        "target" : "13487",
+        "shared_name" : "Horst Achtfaden (interacts with) Oberst Enzian",
+        "name" : "Horst Achtfaden (interacts with) Oberst Enzian",
+        "interaction" : "interrogated by",
+        "SUID" : 15657,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15655",
+        "source" : "15318",
+        "target" : "13208",
+        "shared_name" : "Dzabajev (interacts with) Vaslav Tchitcherine",
+        "name" : "Dzabajev (interacts with) Vaslav Tchitcherine",
+        "interaction" : "driver for",
+        "SUID" : 15655,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15653",
+        "source" : "15316",
+        "target" : "13682",
+        "shared_name" : "Spyros \"Spider\" Telagiecstasis (interacts with) Francisco Squalidozzi",
+        "name" : "Spyros \"Spider\" Telagiecstasis (interacts with) Francisco Squalidozzi",
+        "interaction" : "torpedoes",
+        "SUID" : 15653,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15651",
+        "source" : "15304",
+        "target" : "15300",
+        "shared_name" : "Magda (interacts with) Emil \"Suare\" Bummer",
+        "name" : "Magda (interacts with) Emil \"Suare\" Bummer",
+        "interaction" : "",
+        "SUID" : 15651,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15649",
+        "source" : "15302",
+        "target" : "13787",
+        "shared_name" : "Trudi (interacts with) Gustav Schlabone",
+        "name" : "Trudi (interacts with) Gustav Schlabone",
+        "interaction" : "girlfriend of",
+        "SUID" : 15649,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15647",
+        "source" : "15302",
+        "target" : "15300",
+        "shared_name" : "Trudi (interacts with) Emil \"Suare\" Bummer",
+        "name" : "Trudi (interacts with) Emil \"Suare\" Bummer",
+        "interaction" : "",
+        "SUID" : 15647,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15645",
+        "source" : "15298",
+        "target" : "13208",
+        "shared_name" : "Admiral Rozhdestvenski (interacts with) Vaslav Tchitcherine",
+        "name" : "Admiral Rozhdestvenski (interacts with) Vaslav Tchitcherine",
+        "interaction" : "father on the ship of",
+        "SUID" : 15645,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15643",
+        "source" : "15294",
+        "target" : "15296",
+        "shared_name" : "Chu Piang (interacts with) Dr. Maldetto",
+        "name" : "Chu Piang (interacts with) Dr. Maldetto",
+        "interaction" : "observes",
+        "SUID" : 15643,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15641",
+        "source" : "15294",
+        "target" : "13208",
+        "shared_name" : "Chu Piang (interacts with) Vaslav Tchitcherine",
+        "name" : "Chu Piang (interacts with) Vaslav Tchitcherine",
+        "interaction" : "smoke opium together",
+        "SUID" : 15641,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15639",
+        "source" : "15292",
+        "target" : "14217",
+        "shared_name" : "Schnorp (interacts with) Lt. Tyrone Slothrop",
+        "name" : "Schnorp (interacts with) Lt. Tyrone Slothrop",
+        "interaction" : "hot air balloon ride with",
+        "SUID" : 15639,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15637",
+        "source" : "13398",
+        "target" : "15260",
+        "shared_name" : "Hugo Stinnes (interacts with) Walter Rathenau",
+        "name" : "Hugo Stinnes (interacts with) Walter Rathenau",
+        "interaction" : "business partners",
+        "SUID" : 15637,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15635",
+        "source" : "15281",
+        "target" : "15368",
+        "shared_name" : "Major Duane Marvy (interacts with) Dr. Muffage",
+        "name" : "Major Duane Marvy (interacts with) Dr. Muffage",
+        "interaction" : "castrated by",
+        "SUID" : 15635,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14093",
+        "source" : "14083",
+        "target" : "14079",
+        "shared_name" : "Keith (interacts with) Elizabeth",
+        "name" : "Keith (interacts with) Elizabeth",
+        "interaction" : "father",
+        "SUID" : 14093,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14095",
+        "source" : "14083",
+        "target" : "14087",
+        "shared_name" : "Keith (interacts with) Claire",
+        "name" : "Keith (interacts with) Claire",
+        "interaction" : "father",
+        "SUID" : 14095,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14097",
+        "source" : "14085",
+        "target" : "14081",
+        "shared_name" : "Penelope (interacts with) Jessica Swanlake",
+        "name" : "Penelope (interacts with) Jessica Swanlake",
+        "interaction" : "aunt of.",
+        "SUID" : 14097,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14099",
+        "source" : "14085",
+        "target" : "14083",
+        "shared_name" : "Penelope (interacts with) Keith",
+        "name" : "Penelope (interacts with) Keith",
+        "interaction" : "daughter",
+        "SUID" : 14099,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15633",
+        "source" : "15266",
+        "target" : "15260",
+        "shared_name" : "Heinz Rippenstoss (interacts with) Walter Rathenau",
+        "name" : "Heinz Rippenstoss (interacts with) Walter Rathenau",
+        "interaction" : "asks if God is jewish",
+        "SUID" : 15633,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15631",
+        "source" : "15262",
+        "target" : "15260",
+        "shared_name" : "Emil Rathenau (interacts with) Walter Rathenau",
+        "name" : "Emil Rathenau (interacts with) Walter Rathenau",
+        "interaction" : "father of",
+        "SUID" : 15631,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15629",
+        "source" : "15260",
+        "target" : "13286",
+        "shared_name" : "Walter Rathenau (interacts with) Generaldirektor Smarasd",
+        "name" : "Walter Rathenau (interacts with) Generaldirektor Smarasd",
+        "interaction" : "attends seance of",
+        "SUID" : 15629,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13639",
+        "source" : "13625",
+        "target" : "13631",
+        "shared_name" : "Kurt Mondaugen (interacts with) Franz Pokler",
+        "name" : "Kurt Mondaugen (interacts with) Franz Pokler",
+        "interaction" : "classmates",
+        "SUID" : 13639,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15627",
+        "source" : "15255",
+        "target" : "13631",
+        "shared_name" : "Max Schlepzig (interacts with) Franz Pokler",
+        "name" : "Max Schlepzig (interacts with) Franz Pokler",
+        "interaction" : "advertises films of",
+        "SUID" : 15627,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13643",
+        "source" : "13631",
+        "target" : "13245",
+        "shared_name" : "Franz Pokler (interacts with) Lt. Weissman aka Captain Blicero",
+        "name" : "Franz Pokler (interacts with) Lt. Weissman aka Captain Blicero",
+        "interaction" : "controls via Ilse",
+        "SUID" : 13643,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15625",
+        "source" : "13631",
+        "target" : "15250",
+        "shared_name" : "Franz Pokler (interacts with) Ilse Pokler",
+        "name" : "Franz Pokler (interacts with) Ilse Pokler",
+        "interaction" : "\"movie child\" of",
+        "SUID" : 15625,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15623",
+        "source" : "15248",
+        "target" : "14217",
+        "shared_name" : "Leni Pokler (Solange) (interacts with) Lt. Tyrone Slothrop",
+        "name" : "Leni Pokler (Solange) (interacts with) Lt. Tyrone Slothrop",
+        "interaction" : "sleeps with at Putzi's",
+        "SUID" : 15623,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15621",
+        "source" : "15248",
+        "target" : "15253",
+        "shared_name" : "Leni Pokler (interacts with) Richard Hirsch",
+        "name" : "Leni Pokler (interacts with) Richard Hirsch",
+        "interaction" : "",
+        "SUID" : 15621,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15619",
+        "source" : "15248",
+        "target" : "15264",
+        "shared_name" : "Leni Pokler (interacts with) Frau Silberschlag",
+        "name" : "Leni Pokler (interacts with) Frau Silberschlag",
+        "interaction" : "divorce delivered by",
+        "SUID" : 15619,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15617",
+        "source" : "15248",
+        "target" : "13631",
+        "shared_name" : "Leni Pokler (interacts with) Franz Pokler",
+        "name" : "Leni Pokler (interacts with) Franz Pokler",
+        "interaction" : "marries then leaves",
+        "SUID" : 15617,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15615",
+        "source" : "15248",
+        "target" : "15185",
+        "shared_name" : "Leni Pokler (interacts with) Peter Sascha",
+        "name" : "Leni Pokler (interacts with) Peter Sascha",
+        "interaction" : "in love with",
+        "SUID" : 15615,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15613",
+        "source" : "15248",
+        "target" : "15250",
+        "shared_name" : "Leni Pokler (interacts with) Ilse Pokler",
+        "name" : "Leni Pokler (interacts with) Ilse Pokler",
+        "interaction" : "mother of",
+        "SUID" : 15613,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15611",
+        "source" : "15237",
+        "target" : "15235",
+        "shared_name" : "Mrs. Quoad (interacts with) Darlene",
+        "name" : "Mrs. Quoad (interacts with) Darlene",
+        "interaction" : "cared for by",
+        "SUID" : 15611,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15609",
+        "source" : "15233",
+        "target" : "14217",
+        "shared_name" : "Gerhardt Von Goll aka Der Springer (interacts with) Lt. Tyrone Slothrop",
+        "name" : "Gerhardt Von Goll aka Der Springer (interacts with) Lt. Tyrone Slothrop",
+        "interaction" : "rescues from Russians at Peenemunde",
+        "SUID" : 15609,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15607",
+        "source" : "15233",
+        "target" : "13629",
+        "shared_name" : "Gerhardt Von Goll aka Der Springer (interacts with) Klaus Narrisch",
+        "name" : "Gerhardt Von Goll aka Der Springer (interacts with) Klaus Narrisch",
+        "interaction" : "rescues from Russians at Peenemunde",
+        "SUID" : 15607,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15605",
+        "source" : "15233",
+        "target" : "15344",
+        "shared_name" : "Gerhardt Von Goll aka Der Springer (interacts with) Major Zhdaev",
+        "name" : "Gerhardt Von Goll aka Der Springer (interacts with) Major Zhdaev",
+        "interaction" : "taken captive at Peenemunde by",
+        "SUID" : 15605,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15603",
+        "source" : "15233",
+        "target" : "13682",
+        "shared_name" : "Gerhardt Von Goll aka Der Springer (interacts with) Francisco Squalidozzi",
+        "name" : "Gerhardt Von Goll aka Der Springer (interacts with) Francisco Squalidozzi",
+        "interaction" : "films \"Martin Fierro\" with",
+        "SUID" : 15603,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15601",
+        "source" : "15233",
+        "target" : "15314",
+        "shared_name" : "Gerhardt Von Goll aka Der Springer (interacts with) Edouard Sanktwolke",
+        "name" : "Gerhardt Von Goll aka Der Springer (interacts with) Edouard Sanktwolke",
+        "interaction" : "hotwires cars for",
+        "SUID" : 15601,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15599",
+        "source" : "15233",
+        "target" : "14559",
+        "shared_name" : "Gerhardt Von Goll aka Der Springer (interacts with) Margherita/Greta Erdmann",
+        "name" : "Gerhardt Von Goll aka Der Springer (interacts with) Margherita/Greta Erdmann",
+        "interaction" : "acts for",
+        "SUID" : 15599,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13252",
+        "source" : "13250",
+        "target" : "13245",
+        "shared_name" : "",
+        "name" : "",
+        "interaction" : "",
+        "SUID" : 13252,
+        "shared_interaction" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15597",
+        "source" : "13250",
+        "target" : "15250",
+        "shared_name" : "Gottfried (interacts with) Ilse Pokler",
+        "name" : "Gottfried (interacts with) Ilse Pokler",
+        "interaction" : "sees at Zwolfkinder",
+        "SUID" : 15597,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13134",
+        "source" : "13126",
+        "target" : "13118",
+        "shared_name" : "Katje Borgesius (interacts with) Webley Silvernail",
+        "name" : "Katje Borgesius (interacts with) Webley Silvernail",
+        "interaction" : "finds Grigori's training film left out by",
+        "SUID" : 13134,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13136",
+        "source" : "13126",
+        "target" : "13110",
+        "shared_name" : "Katje Borgesius (interacts with) Ernest Brigadier Pudding",
+        "name" : "Katje Borgesius (interacts with) Ernest Brigadier Pudding",
+        "interaction" : "shits in the mouth of",
+        "SUID" : 13136,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15595",
+        "source" : "13126",
+        "target" : "15231",
+        "shared_name" : "Katje Borgesius (interacts with) Frans Van der Groov",
+        "name" : "Katje Borgesius (interacts with) Frans Van der Groov",
+        "interaction" : "ancestor of",
+        "SUID" : 15595,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15593",
+        "source" : "13555",
+        "target" : "15193",
+        "shared_name" : "Edwin Treacle (interacts with) Clive Mossmoon",
+        "name" : "Edwin Treacle (interacts with) Clive Mossmoon",
+        "interaction" : "took organic chemistry with",
+        "SUID" : 15593,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13575",
+        "source" : "13551",
+        "target" : "13536",
+        "shared_name" : "Reverend Dr. Paul de la Nuit (interacts with) Geza Rozsavolgyi",
+        "name" : "Reverend Dr. Paul de la Nuit (interacts with) Geza Rozsavolgyi",
+        "interaction" : "argues with",
+        "SUID" : 13575,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13573",
+        "source" : "13543",
+        "target" : "13536",
+        "shared_name" : "Rosie (interacts with) Geza Rozsavolgyi",
+        "name" : "Rosie (interacts with) Geza Rozsavolgyi",
+        "interaction" : "gives files on Slothrop to",
+        "SUID" : 13573,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15591",
+        "source" : "13562",
+        "target" : "15507",
+        "shared_name" : "Rollo Groast (interacts with) Carrol Eventyr",
+        "name" : "Rollo Groast (interacts with) Carrol Eventyr",
+        "interaction" : "EEG's",
+        "SUID" : 15591,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15589",
+        "source" : "13562",
+        "target" : "15244",
+        "shared_name" : "Rollo Groast (interacts with) Margaret Quartertones",
+        "name" : "Rollo Groast (interacts with) Margaret Quartertones",
+        "interaction" : "studies",
+        "SUID" : 15589,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15587",
+        "source" : "15220",
+        "target" : "14217",
+        "shared_name" : "Whappo (interacts with) Lt. Tyrone Slothrop",
+        "name" : "Whappo (interacts with) Lt. Tyrone Slothrop",
+        "interaction" : "hallucinates",
+        "SUID" : 15587,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15585",
+        "source" : "15201",
+        "target" : "14217",
+        "shared_name" : "Malcom X aka \"Red\" the Shoeshine Boy (interacts with) Lt. Tyrone Slothrop",
+        "name" : "Malcom X aka \"Red\" the Shoeshine Boy (interacts with) Lt. Tyrone Slothrop",
+        "interaction" : "\"Good golly he sure is all asshole ain't he?\"",
+        "SUID" : 15585,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13844",
+        "source" : "13290",
+        "target" : "13631",
+        "shared_name" : "Laszlo Jamf (interacts with) Franz Pokler",
+        "name" : "Laszlo Jamf (interacts with) Franz Pokler",
+        "interaction" : "taught polymer theory to",
+        "SUID" : 13844,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15583",
+        "source" : "13290",
+        "target" : "14217",
+        "shared_name" : "Laszlo Jamf (interacts with) Lt. Tyrone Slothrop",
+        "name" : "Laszlo Jamf (interacts with) Lt. Tyrone Slothrop",
+        "interaction" : "pavlovian conditioning on",
+        "SUID" : 15583,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15581",
+        "source" : "13290",
+        "target" : "15233",
+        "shared_name" : "Laszlo Jamf (interacts with) Gerhardt Von Goll aka Der Springer",
+        "name" : "Laszlo Jamf (interacts with) Gerhardt Von Goll aka Der Springer",
+        "interaction" : "\"emulsion J\" film store from",
+        "SUID" : 15581,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15579",
+        "source" : "13290",
+        "target" : "15144",
+        "shared_name" : "Laszlo Jamf (interacts with) Mario Schweitar",
+        "name" : "Laszlo Jamf (interacts with) Mario Schweitar",
+        "interaction" : "",
+        "SUID" : 15579,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13579",
+        "source" : "13437",
+        "target" : "13545",
+        "shared_name" : "Edward W.A. Pointsman (interacts with) Dr. Kevin Spectro",
+        "name" : "Edward W.A. Pointsman (interacts with) Dr. Kevin Spectro",
+        "interaction" : "discuss pavlovianism",
+        "SUID" : 13579,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13581",
+        "source" : "13437",
+        "target" : "13110",
+        "shared_name" : "Edward W.A. Pointsman (interacts with) Ernest Brigadier Pudding",
+        "name" : "Edward W.A. Pointsman (interacts with) Ernest Brigadier Pudding",
+        "interaction" : "boss of",
+        "SUID" : 13581,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13439",
+        "source" : "13437",
+        "target" : "13120",
+        "shared_name" : "Edward W.A. Pointsman (interacts with) Roger Mexico",
+        "name" : "Edward W.A. Pointsman (interacts with) Roger Mexico",
+        "interaction" : "works for",
+        "SUID" : 13439,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13441",
+        "source" : "13437",
+        "target" : "13432",
+        "shared_name" : "Edward W.A. Pointsman (interacts with) Maude Chilkes",
+        "name" : "Edward W.A. Pointsman (interacts with) Maude Chilkes",
+        "interaction" : "blowjob from",
+        "SUID" : 13441,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15577",
+        "source" : "13437",
+        "target" : "15372",
+        "shared_name" : "Edward W.A. Pointsman (interacts with) General Wivern",
+        "name" : "Edward W.A. Pointsman (interacts with) General Wivern",
+        "interaction" : "in the office of at Twelfth House",
+        "SUID" : 15577,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15575",
+        "source" : "15193",
+        "target" : "15191",
+        "shared_name" : "Clive Mossmoon (interacts with) Scorpia Mossmoon",
+        "name" : "Clive Mossmoon (interacts with) Scorpia Mossmoon",
+        "interaction" : "married to",
+        "SUID" : 15575,
+        "shared_interaction" : "married to",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15573",
+        "source" : "15191",
+        "target" : "13114",
+        "shared_name" : "Scorpia Mossmoon (interacts with) Geoffrey \"Pirate\" Prentice \"Pirate\" Prentice",
+        "name" : "Scorpia Mossmoon (interacts with) Geoffrey \"Pirate\" Prentice \"Pirate\" Prentice",
+        "interaction" : "love affair with",
+        "SUID" : 15573,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15571",
+        "source" : "15189",
+        "target" : "13562",
+        "shared_name" : "Gavin Trefoil (interacts with) Rollo Groast",
+        "name" : "Gavin Trefoil (interacts with) Rollo Groast",
+        "interaction" : "studied by",
+        "SUID" : 15571,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15569",
+        "source" : "15185",
+        "target" : "15260",
+        "shared_name" : "Peter Sascha (interacts with) Walter Rathenau",
+        "name" : "Peter Sascha (interacts with) Walter Rathenau",
+        "interaction" : "channels spirit of",
+        "SUID" : 15569,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15567",
+        "source" : "15181",
+        "target" : "13120",
+        "shared_name" : "Milton Gloaming (interacts with) Roger Mexico",
+        "name" : "Milton Gloaming (interacts with) Roger Mexico",
+        "interaction" : "friends, P. 631",
+        "SUID" : 15567,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15565",
+        "source" : "15181",
+        "target" : "13835",
+        "shared_name" : "Milton Gloaming (interacts with) Josef Schleim",
+        "name" : "Milton Gloaming (interacts with) Josef Schleim",
+        "interaction" : "on task force with",
+        "SUID" : 15565,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14091",
+        "source" : "14081",
+        "target" : "14087",
+        "shared_name" : "Jessica Swanlake (interacts with) Claire",
+        "name" : "Jessica Swanlake (interacts with) Claire",
+        "interaction" : "aunt of",
+        "SUID" : 14091,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14089",
+        "source" : "14081",
+        "target" : "14079",
+        "shared_name" : "Jessica Swanlake (interacts with) Elizabeth",
+        "name" : "Jessica Swanlake (interacts with) Elizabeth",
+        "interaction" : "aunt of",
+        "SUID" : 14089,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15563",
+        "source" : "14081",
+        "target" : "15239",
+        "shared_name" : "Jessica Swanlake (interacts with) Maggie Dunkirk",
+        "name" : "Jessica Swanlake (interacts with) Maggie Dunkirk",
+        "interaction" : "in a battery with",
+        "SUID" : 15563,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15561",
+        "source" : "14081",
+        "target" : "13120",
+        "shared_name" : "Jessica Swanlake (interacts with) Roger Mexico",
+        "name" : "Jessica Swanlake (interacts with) Roger Mexico",
+        "interaction" : "affair with",
+        "SUID" : 15561,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15559",
+        "source" : "14081",
+        "target" : "15195",
+        "shared_name" : "Jessica Swanlake (interacts with) Jeremy \"Beaver\"",
+        "name" : "Jessica Swanlake (interacts with) Jeremy \"Beaver\"",
+        "interaction" : "married to",
+        "SUID" : 15559,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15557",
+        "source" : "15176",
+        "target" : "13114",
+        "shared_name" : "Lord Blatherard Osmo (interacts with) Geoffrey \"Pirate\" Prentice \"Pirate\" Prentice",
+        "name" : "Lord Blatherard Osmo (interacts with) Geoffrey \"Pirate\" Prentice \"Pirate\" Prentice",
+        "interaction" : "adenoid tamed by",
+        "SUID" : 15557,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15555",
+        "source" : "13112",
+        "target" : "14217",
+        "shared_name" : "Sir Steven Dodson Truck (interacts with) Lt. Tyrone Slothrop",
+        "name" : "Sir Steven Dodson Truck (interacts with) Lt. Tyrone Slothrop",
+        "interaction" : "teaches rocketry to",
+        "SUID" : 15555,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15553",
+        "source" : "13112",
+        "target" : "15241",
+        "shared_name" : "Sir Steven Dodson Truck (interacts with) Norah Dodson Truck",
+        "name" : "Sir Steven Dodson Truck (interacts with) Norah Dodson Truck",
+        "interaction" : "married",
+        "SUID" : 15553,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13175",
+        "source" : "13169",
+        "target" : "13167",
+        "shared_name" : "Hilary Bounce (interacts with) Mr. Geoffrey Gollin",
+        "name" : "Hilary Bounce (interacts with) Mr. Geoffrey Gollin",
+        "interaction" : "boss of",
+        "SUID" : 13175,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13177",
+        "source" : "13173",
+        "target" : "13167",
+        "shared_name" : "Isaac  Lubbock (interacts with) Mr. Geoffrey Gollin",
+        "name" : "Isaac  Lubbock (interacts with) Mr. Geoffrey Gollin",
+        "interaction" : "assistant to",
+        "SUID" : 13177,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14655",
+        "source" : "14643",
+        "target" : "13169",
+        "shared_name" : "Michele (interacts with) Hilary Bounce",
+        "name" : "Michele (interacts with) Hilary Bounce",
+        "interaction" : "distracts",
+        "SUID" : 14655,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15551",
+        "source" : "15158",
+        "target" : "15160",
+        "shared_name" : "Georges \"Poudre\" de la Perlimpinpin (interacts with) Raoul de La Perlimpinpin",
+        "name" : "Georges \"Poudre\" de la Perlimpinpin (interacts with) Raoul de La Perlimpinpin",
+        "interaction" : "father of",
+        "SUID" : 15551,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15549",
+        "source" : "15153",
+        "target" : "15151",
+        "shared_name" : "Tamara (interacts with) Italo",
+        "name" : "Tamara (interacts with) Italo",
+        "interaction" : "P. 247",
+        "SUID" : 15549,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15547",
+        "source" : "15153",
+        "target" : "13116",
+        "shared_name" : "Tamara (interacts with) Blodgett Waxwing",
+        "name" : "Tamara (interacts with) Blodgett Waxwing",
+        "interaction" : "P. 247",
+        "SUID" : 15547,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15545",
+        "source" : "15151",
+        "target" : "13116",
+        "shared_name" : "",
+        "name" : "",
+        "interaction" : "",
+        "SUID" : 15545,
+        "shared_interaction" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15543",
+        "source" : "14291",
+        "target" : "15144",
+        "shared_name" : "Ian Scuffling (interacts with) Mario Schweitar",
+        "name" : "Ian Scuffling (interacts with) Mario Schweitar",
+        "interaction" : "LSD, info from",
+        "SUID" : 15543,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15541",
+        "source" : "15146",
+        "target" : "14217",
+        "shared_name" : "",
+        "name" : "",
+        "interaction" : "",
+        "SUID" : 15541,
+        "shared_interaction" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15539",
+        "source" : "13682",
+        "target" : "13116",
+        "shared_name" : "Francisco Squalidozzi (interacts with) Blodgett Waxwing",
+        "name" : "Francisco Squalidozzi (interacts with) Blodgett Waxwing",
+        "interaction" : "",
+        "SUID" : 15539,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13752",
+        "source" : "13748",
+        "target" : "13750",
+        "shared_name" : "Byron the Bulb (interacts with) Hansel Geschwindig",
+        "name" : "Byron the Bulb (interacts with) Hansel Geschwindig",
+        "interaction" : "stolen by",
+        "SUID" : 13752,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15537",
+        "source" : "13358",
+        "target" : "15404",
+        "shared_name" : "",
+        "name" : "",
+        "interaction" : "",
+        "SUID" : 15537,
+        "shared_interaction" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15535",
+        "source" : "13360",
+        "target" : "15404",
+        "shared_name" : "Takeshi (interacts with) Old Kenosho",
+        "name" : "Takeshi (interacts with) Old Kenosho",
+        "interaction" : "radar man for",
+        "SUID" : 15535,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15533",
+        "source" : "13208",
+        "target" : "13288",
+        "shared_name" : "",
+        "name" : "",
+        "interaction" : "",
+        "SUID" : 15533,
+        "shared_interaction" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15531",
+        "source" : "13208",
+        "target" : "15406",
+        "shared_name" : "Vaslav Tchitcherine (interacts with) Nikolai Ripov",
+        "name" : "Vaslav Tchitcherine (interacts with) Nikolai Ripov",
+        "interaction" : "searching for",
+        "SUID" : 15531,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15529",
+        "source" : "13208",
+        "target" : "15287",
+        "shared_name" : "",
+        "name" : "",
+        "interaction" : "",
+        "SUID" : 15529,
+        "shared_interaction" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13130",
+        "source" : "13114",
+        "target" : "13126",
+        "shared_name" : "Geoffrey \"Pirate\" Prentice \"Pirate\" Prentice (interacts with) Katje Borgesius",
+        "name" : "Geoffrey \"Pirate\" Prentice \"Pirate\" Prentice (interacts with) Katje Borgesius",
+        "interaction" : "extracts from Germany",
+        "SUID" : 13130,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15527",
+        "source" : "13114",
+        "target" : "15231",
+        "shared_name" : "Geoffrey \"Pirate\" Prentice (interacts with) Frans Van der Groov",
+        "name" : "Geoffrey \"Pirate\" Prentice (interacts with) Frans Van der Groov",
+        "interaction" : "haunted by",
+        "SUID" : 15527,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14180",
+        "source" : "14171",
+        "target" : "13114",
+        "shared_name" : "",
+        "name" : "",
+        "interaction" : "",
+        "SUID" : 14180,
+        "shared_interaction" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "13132",
+        "source" : "13124",
+        "target" : "13126",
+        "shared_name" : "Osbie Feel (interacts with) Katje Borgesius",
+        "name" : "Osbie Feel (interacts with) Katje Borgesius",
+        "interaction" : "trains Grigori the octopus with footage of",
+        "SUID" : 13132,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15525",
+        "source" : "15089",
+        "target" : "14217",
+        "shared_name" : "Node 2 (interacts with) Node 10",
+        "name" : "Node 2 (interacts with) Node 10",
+        "interaction" : "photographs sex map of",
+        "SUID" : 15525,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15523",
+        "source" : "15089",
+        "target" : "13114",
+        "shared_name" : "Teddy Bloat (interacts with) Geoffrey \"Pirate\" Prentice \"Pirate\" Prentice",
+        "name" : "Teddy Bloat (interacts with) Geoffrey \"Pirate\" Prentice \"Pirate\" Prentice",
+        "interaction" : "saved from falling by, euologizes",
+        "SUID" : 15523,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15521",
+        "source" : "15089",
+        "target" : "14215",
+        "shared_name" : "Teddy Bloat (interacts with) Lt. Oliver (\"Tantivy\") Mucker Maffick",
+        "name" : "Teddy Bloat (interacts with) Lt. Oliver (\"Tantivy\") Mucker Maffick",
+        "interaction" : "Jesus college friends, eulogizes",
+        "SUID" : 15521,
+        "shared_interaction" : "Jesus college friends, eulogizes",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15519",
+        "source" : "15087",
+        "target" : "13124",
+        "shared_name" : "",
+        "name" : "",
+        "interaction" : "",
+        "SUID" : 15519,
+        "shared_interaction" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14184",
+        "source" : "14173",
+        "target" : "13124",
+        "shared_name" : "",
+        "name" : "",
+        "interaction" : "",
+        "SUID" : 14184,
+        "shared_interaction" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14182",
+        "source" : "14173",
+        "target" : "14171",
+        "shared_name" : "Decoverly Pox (interacts with) Joaquin Stick",
+        "name" : "Decoverly Pox (interacts with) Joaquin Stick",
+        "interaction" : "",
+        "SUID" : 14182,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14178",
+        "source" : "14169",
+        "target" : "13124",
+        "shared_name" : "Maurice \"Saxophone\" Reed (interacts with) Osbie Feel",
+        "name" : "Maurice \"Saxophone\" Reed (interacts with) Osbie Feel",
+        "interaction" : "beat up",
+        "SUID" : 14178,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "14573",
+        "source" : "14559",
+        "target" : "14561",
+        "shared_name" : "Margherita/Greta Erdmann (interacts with) Sigmund",
+        "name" : "Margherita/Greta Erdmann (interacts with) Sigmund",
+        "interaction" : "girlfriend of",
+        "SUID" : 14573,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15517",
+        "source" : "14559",
+        "target" : "15255",
+        "shared_name" : "Margherita/Greta Erdmann (interacts with) Max Schlepzig",
+        "name" : "",
+        "interaction" : "",
+        "SUID" : 15517,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15515",
+        "source" : "14559",
+        "target" : "13631",
+        "shared_name" : "Margherita/Greta Erdmann (interacts with) Franz Pokler",
+        "name" : "",
+        "interaction" : "",
+        "SUID" : 15515,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "15513",
+        "source" : "14559",
+        "target" : "13208",
+        "shared_name" : "Margherita/Greta Erdmann (interacts with) Vaslav Tchitcherine",
+        "name" : "Margherita/Greta Erdmann (interacts with) Vaslav Tchitcherine",
+        "interaction" : "ride the same horse (snake)",
+        "SUID" : 15513,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

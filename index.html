@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<HTML>
+
+<head>
+    <title>A Gravity's Rainbow Hypergraph</title>
+    <script src ='cytoscape.umd.js'></script>
+    <script src="jquery-3.6.0.js"></script>
+</head>
+
+<style>
+    body {
+        font-size: 16px;
+    }
+    #cy {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        bottom: 0px;
+    }
+
+</style>
+
+<body>
+    <div id = "cy"></div>
+    <script>
+        //console.log("Before Loading")
+        var json = $.getJSON('Gravitys_Rainbow_Test7.cyjs').done(function(data){
+            var cy = cytoscape({
+                container: document.getElementById('cy'),
+                elements: data.elements,
+                style: fetch('styles_test7.json').then(res => res.json()).then(json => json.style),
+                
+                layout:{
+                    name: 'preset',
+                    //zoom: 1
+                },
+
+                //interaction options
+                minZoom: 5e-2,
+                maxZoom: 10e5,
+                zoomingEnabled: true,
+                userZoomingEnabled: true,
+                panningEnabled: true,
+                userPanningEnabled: true,
+                boxSelectionEnabled: true,
+                selectionType: 'single',
+                touchTapThreshold: 8,
+                desktopTapThreshold: 4,
+                autolock: false,
+                autoungrabify: false,
+                autounselectify: false,
+                multiClickDebounceTime: 250,
+
+                //rendering options
+                headless: false,
+                styleEnabled: true,
+                hideEdgesOnViewport: false,
+                textureOnViewport: false,
+                motionBlur: false,
+                motionBlurOpacity: 0.2,
+                wheelSensitivity: 1,
+                pixelRatio: 'auto'
+            });
+        });
+        //console.log("Done")
+    </script>
+</body>
+</HTML>
