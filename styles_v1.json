@@ -6,21 +6,21 @@
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "background-opacity" : 1.0,
+      "border-opacity" : 1.0,
       "text-valign" : "center",
       "text-halign" : "center",
+      "background-opacity" : 1.0,
+      "height" : 40.0,
+      "text-opacity" : 1.0,
       "shape" : "ellipse",
-      "border-width" : 2.0,
+      "width" : 120.0,
+      "border-color" : "rgb(0,0,0)",
       "font-family" : "SansSerif.plain",
       "font-weight" : "normal",
-      "border-color" : "rgb(0,0,0)",
-      "color" : "rgb(0,0,0)",
-      "text-opacity" : 1.0,
-      "height" : 35.0,
-      "background-color" : "rgb(255,255,255)",
-      "border-opacity" : 1.0,
       "font-size" : 14,
-      "width" : 75.0,
+      "background-color" : "rgb(255,255,255)",
+      "color" : "rgb(0,0,0)",
+      "border-width" : 2.0,
       "content" : "data(name)"
     }
   }, {
@@ -213,247 +213,246 @@
       "font-size" : 24
     } 
   }, {
-    "selector" : "node[ id = '13952' ]",
+    "selector" : "node[ id = '19936' ]",
     "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 649.776688236384,
       "shape" : "roundrectangle",
-      "height" : 277.93949531575777,
-      "content" : "Schwarzkommando"
+      "width" : 627.3527923267047,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 167.23039038484148
     }
   }, {
-    "selector" : "node[ id = '14657' ]",
+    "selector" : "node[ id = '20612' ]",
     "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 207.81572711144145,
       "shape" : "roundrectangle",
-      "height" : 164.7558616606966,
-      "content" : "Bland Family"
+      "width" : 147.7326580496374,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 215.27799518628763,
+      "content" : "US Army\n"
     }
   }, {
-    "selector" : "node[ id = '14018' ]",
+    "selector" : "node[ id = '20644' ]",
     "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 365.2694053366822,
       "shape" : "roundrectangle",
-      "height" : 124.51407668924185,
-      "content" : "Hansel/Gretel BDSM"
-    }
-  }, {
-    "selector" : "node[ id = '14050' ]",
-    "css" : {
+      "width" : 463.54786737570066,
       "background-opacity" : 0.19607843137254902,
-      "width" : 782.3000231355545,
-      "shape" : "roundrectangle",
-      "height" : 330.074311694917,
-      "content" : "Swanlakes"
-    }
-  }, {
-    "selector" : "node[ id = '14438' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 456.1566653928112,
-      "shape" : "roundrectangle",
-      "height" : 119.84555420578454,
-      "content" : "Mittelwerke"
-    }
-  }, {
-    "selector" : "node[ id = '14886' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 97.22354774202813,
-      "shape" : "roundrectangle",
-      "height" : 210.27799518628763,
-      "content" : "US Army"
-    }
-  }, {
-    "selector" : "node[ id = '14761' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 202.33993527824532,
-      "shape" : "roundrectangle",
-      "height" : 207.6568754246464,
-      "content" : "Toiletship"
-    }
-  }, {
-    "selector" : "node[ id = '14186' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 196.91975258012098,
-      "shape" : "roundrectangle",
-      "height" : 364.6579379178345,
-      "content" : "ACHTUNG"
-    }
-  }, {
-    "selector" : "node[ id = '14924' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 288.41925714962144,
-      "shape" : "roundrectangle",
-      "height" : 58.048105169112205,
-      "content" : "Kamikaze Pilots"
-    }
-  }, {
-    "selector" : "node[ id = '14701' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 1130.5271476602065,
-      "shape" : "roundrectangle",
-      "height" : 336.3702897375192,
-      "content" : "German Rocketeers"
-    }
-  }, {
-    "selector" : "node[ id = '14575' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 730.8856144961601,
-      "shape" : "roundrectangle",
-      "height" : 58.95280979003746,
-      "content" : "IG Farben"
-    }
-  }, {
-    "selector" : "node[ id = '14959' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 100.92240181879424,
-      "shape" : "roundrectangle",
-      "height" : 143.5770458783818,
-      "content" : "Long Enough Magazine"
-    }
-  }, {
-    "selector" : "node[ id = '14224' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 448.0,
-      "shape" : "roundrectangle",
-      "height" : 108.0,
-      "content" : "The Floundering Four"
-    }
-  }, {
-    "selector" : "node[ id = '14481' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 99.0413214135715,
-      "shape" : "roundrectangle",
-      "height" : 220.99633902225924,
-      "content" : "Frau Gnahb ship"
-    }
-  }, {
-    "selector" : "node[ id = '14994' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 96.0,
-      "shape" : "roundrectangle",
-      "height" : 156.0,
-      "content" : "Story of Byron the Bulb"
-    }
-  }, {
-    "selector" : "node[ id = '15029' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 504.0,
-      "shape" : "roundrectangle",
-      "height" : 58.0,
-      "content" : "Krupp Dinner"
-    }
-  }, {
-    "selector" : "node[ id = '14101' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 309.0,
-      "shape" : "roundrectangle",
-      "height" : 185.0,
-      "content" : "In Hell"
-    }
-  }, {
-    "selector" : "node[ id = '14518' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 657.5837435097728,
-      "shape" : "roundrectangle",
-      "height" : 644.0983789536176,
-      "content" : "The Anubis"
-    }
-  }, {
-    "selector" : "node[ id = '14614' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 312.22104858484636,
-      "shape" : "roundrectangle",
-      "height" : 274.8167435999085,
-      "content" : "Shell International Petroleum"
-    }
-  }, {
-    "selector" : "node[ id = '14262' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 97.0,
-      "shape" : "roundrectangle",
-      "height" : 165.0,
-      "content" : "Tyrone Slothrop"
-    }
-  }, {
-    "selector" : "node[ id = '14391' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 308.73107062718555,
-      "shape" : "roundrectangle",
-      "height" : 203.7754158161897,
-      "content" : "Argentinian Anarchists"
-    }
-  }, {
-    "selector" : "node[ id = '14808' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 102.0399267024768,
-      "shape" : "roundrectangle",
-      "height" : 493.6016497280898,
-      "content" : "NTA Comittees"
-    }
-  }, {
-    "selector" : "node[ id = '14296' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 222.07757566724285,
-      "shape" : "roundrectangle",
-      "height" : 214.9636407966401,
-      "content" : "Harvard"
-    }
-  }, {
-    "selector" : "node[ id = '14139' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 813.1792121628605,
-      "shape" : "roundrectangle",
-      "height" : 358.006287720214,
-      "content" : "SOE"
-    }
-  }, {
-    "selector" : "node[ id = '13884' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 693.9335270890897,
-      "shape" : "roundrectangle",
-      "height" : 947.4030441394387,
-      "content" : "The White Visitation"
-    }
-  }, {
-    "selector" : "node[ id = '14847' ]",
-    "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 404.0,
-      "shape" : "roundrectangle",
-      "height" : 231.0,
+      "height" : 262.18616127626046,
       "content" : "Teaching NTA"
     }
   }, {
-    "selector" : "node[ id = '14335' ]",
+    "selector" : "node[ id = '20581' ]",
     "css" : {
-      "background-opacity" : 0.19607843137254902,
-      "width" : 417.04081322417915,
       "shape" : "roundrectangle",
-      "height" : 405.365325977647,
+      "width" : 409.1543873044038,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 60.256612083422624,
+      "content" : "Kamikaze Pilots"
+    }
+  }, {
+    "selector" : "node[ id = '20677' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 147.0399267024768,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 501.51122320322884,
+      "content" : "NTA Comittees"
+    }
+  }, {
+    "selector" : "node[ id = '20550' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 141.46162104911127,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 161.95938818743252,
+      "content" : "Long Enough Magazine\n"
+    }
+  }, {
+    "selector" : "node[ id = '20710' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 286.8419233763316,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 222.98960449903916,
+      "content" : "Toiletship"
+    }
+  }, {
+    "selector" : "node[ id = '21190' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 142.0,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 179.12107612321688,
+      "content" : "Tyrone Slothrop"
+    }
+  }, {
+    "selector" : "node[ id = '20519' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 140.90388287433507,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 219.37461850855016,
+      "content" : "Story of Byron the Bulb\n"
+    }
+  }, {
+    "selector" : "node[ id = '20999' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 577.5287903316857,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 158.84293011056116,
+      "content" : "Mittelwerke"
+    }
+  }, {
+    "selector" : "node[ id = '21447' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 438.4820012141481,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 129.51407668924185,
+      "content" : "Hansel/Gretel BDSM\n"
+    }
+  }, {
+    "selector" : "node[ id = '21479' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 673.3862614766413,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 346.4568803075931,
+      "content" : "Schwarzkommando\n"
+    }
+  }, {
+    "selector" : "node[ id = '21352' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 376.85220266074793,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 174.00345813747685,
+      "content" : "In Hell\n"
+    }
+  }, {
+    "selector" : "node[ id = '20745' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 1175.5271476602065,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 334.3675915959634,
+      "content" : "German Rocketeers"
+    }
+  }, {
+    "selector" : "node[ id = '21228' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 575.089685108951,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 117.56053806160844,
+      "content" : "The Floudering Four"
+    }
+  }, {
+    "selector" : "node[ id = '21391' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 827.3000231355545,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 360.20188133744523,
+      "content" : "Swanlakes"
+    }
+  }, {
+    "selector" : "node[ id = '21521' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 821.7354750051627,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 938.6788739568312,
+      "content" : "The White Visitation\n"
+    }
+  }, {
+    "selector" : "node[ id = '20785' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 299.61845493336205,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 229.25883753015933,
+      "content" : "Bland Family\n"
+    }
+  }, {
+    "selector" : "node[ id = '20819' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 457.601549853337,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 365.9956219164742,
+      "content" : "Shell International Petroleum"
+    }
+  }, {
+    "selector" : "node[ id = '21269' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 319.4488996274631,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 410.70278047231,
+      "content" : "ACHTUNG\n"
+    }
+  }, {
+    "selector" : "node[ id = '21304' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 877.929244810739,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 363.006287720214,
+      "content" : "SOE"
+    }
+  }, {
+    "selector" : "node[ id = '20857' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 816.0,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 67.0,
+      "content" : "IG Farben\n"
+    }
+  }, {
+    "selector" : "node[ id = '21049' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 390.17730305394434,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 208.7754158161897,
+      "content" : "Argentinian Anarchists"
+    }
+  }, {
+    "selector" : "node[ id = '21146' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 324.3502266235773,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 219.96364079664022,
+      "content" : "Harvard"
+    }
+  }, {
+    "selector" : "node[ id = '21084' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 454.2309062755867,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 410.365325977647,
       "content" : "Slothrops"
+    }
+  }, {
+    "selector" : "node[ id = '20893' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 657.5837435097728,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 644.0983789536176,
+      "content" : "The Anubis\n"
+    }
+  }, {
+    "selector" : "node[ id = '20959' ]",
+    "css" : {
+      "shape" : "roundrectangle",
+      "width" : 143.5937348245061,
+      "background-opacity" : 0.19607843137254902,
+      "height" : 258.7979482063429,
+      "content" : "Frau Gnahb's ship"
     }
   }, {
     "selector" : "node:selected",
@@ -463,26 +462,226 @@
   }, {
     "selector" : "edge",
     "css" : {
+      "opacity" : 1.0,
+      "color" : "rgb(0,0,0)",
+      "source-arrow-color" : "rgb(0,0,0)",
       "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "curve-style": "bezier",
+      "font-size" : 18,
+      "line-color" : "rgb(0,0,0)",
+      "target-arrow-color" : "rgb(0,0,0)",
       "font-family" : "Dialog.plain",
       "font-weight" : "normal",
-      "font-size" : 18,
-      "text-opacity" : 1.0,
-      "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(0,0,0)",
-      "source-arrow-shape" : "triangle",
-      "curve-style": "bezier",
-      "target-arrow-shape" : "triangle",
-      "color" : "rgb(0,0,0)",
+      "target-arrow-shape" : "none",
       "width" : 2.0,
-      "target-arrow-color" : "rgb(0,0,0)",
-      "opacity" : 1.0,
       "content" : "data(interaction)"
+    }
+  }, {
+    "selector" : "edge[interaction = '\"movie child\" of']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'sells cocaine to']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'hotwires cars for']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'hallucinates']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'helps on to the Anubis']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'father on the ship of']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'control of']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'discourages from having kids']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'dressed in Imipolex by']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'attends seance of']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'beat up']",
+    "css" : {
+      "source-arrow-shape" : null
+    }
+  }, {
+    "selector" : "edge[interaction = 'investigates']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'observes']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'sees at Zwolfkinder']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'conceives Ilse after watching Alpdrucken starring']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'rescues from Russians at Peenemunde']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'controls via Ilse']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'in the office of at Twelfth House']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'story of Margherita to']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'works for']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'haunted by']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = '\"girl of\"']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'helps escape from Marvy']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'aunt of.']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'assistant to']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'teaches propulsion to']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'speaks to from the beyond about rockets']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'warns of Schwarzkommando, attempts to capture']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'drives for']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'radar man for']",
+    "css" : {
+      "source-arrow-shape" : null
+    }
+  }, {
+    "selector" : "edge[interaction = 'ancestor of']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'beats up']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = '\"emulsion J\" film store from']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'acts for']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'tells story of Margherita to']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'searching for']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'delivers film to']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'castrated by']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'boss of']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[interaction = 'launches in 00000 with Schwarzgerat']",
+    "css" : {
+      "source-arrow-shape" : "triangle"
     }
   }, {
     "selector" : "edge[name = 'Bartley Gobbitch (interacts with) Osbie Feel']",
     "css" : {
-      "target-arrow-shape" : "triangle"
+      "target-arrow-shape" : null
     }
   }, {
     "selector" : "edge[name = 'Lt. Tyrone Slothrop (interacts with) Francisco Squalidozzi']",
@@ -491,6 +690,11 @@
     }
   }, {
     "selector" : "edge[name = 'Gavin Trefoil (interacts with) Rollo Groast']",
+    "css" : {
+      "target-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[name = 'Geli Tripping (interacts with) Vaslav Tchitcherine']",
     "css" : {
       "target-arrow-shape" : "triangle"
     }
@@ -513,6 +717,11 @@
     "selector" : "edge[name = 'Major Duane Marvy (interacts with) Dr. Muffage']",
     "css" : {
       "target-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[name = 'Takeshi (interacts with) Old Kenosho']",
+    "css" : {
+      "target-arrow-shape" : null
     }
   }, {
     "selector" : "edge[name = 'Hogan (interacts with) Marjorie']",
@@ -665,6 +874,16 @@
       "target-arrow-shape" : "triangle"
     }
   }, {
+    "selector" : "edge[name = 'Penelope (interacts with) Keith']",
+    "css" : {
+      "target-arrow-shape" : "triangle"
+    }
+  }, {
+    "selector" : "edge[name = 'Nikolai Ripov (interacts with) Vaslav Tchitcherine']",
+    "css" : {
+      "target-arrow-shape" : "triangle"
+    }
+  }, {
     "selector" : "edge[name = 'Lt. Tyrone Slothrop (interacts with) \"Gobbler\" Biddle']",
     "css" : {
       "target-arrow-shape" : "triangle"
@@ -785,6 +1004,11 @@
       "target-arrow-shape" : "triangle"
     }
   }, {
+    "selector" : "edge[name = 'Old Kenosho (interacts with) Ichizo']",
+    "css" : {
+      "target-arrow-shape" : "triangle"
+    }
+  }, {
     "selector" : "edge[name = 'Rollo Groast (interacts with) Carrol Eventyr']",
     "css" : {
       "target-arrow-shape" : "triangle"
@@ -865,6 +1089,11 @@
       "target-arrow-shape" : "triangle"
     }
   }, {
+    "selector" : "edge[name = 'Rosie (interacts with) Geza Rozsavolgyi']",
+    "css" : {
+      "target-arrow-shape" : "triangle"
+    }
+  }, {
     "selector" : "edge[name = 'Mrs. Elizabeth (interacts with) Lt. Isaiah Slothrop']",
     "css" : {
       "target-arrow-shape" : "triangle"
@@ -883,191 +1112,6 @@
     "selector" : "edge[name = 'Dr. Spontoon (interacts with) General Wivern']",
     "css" : {
       "target-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = '\"movie child\" of']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'sells cocaine to']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'hotwires cars for']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'hallucinates']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'helps on to the Anubis']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'father on the ship of']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'control of']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'discourages from having kids']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'attends seance of']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'investigates']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'observes']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'sees at Zwolfkinder']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'conceives Ilse after watching Alpdrucken starring']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'rescues from Russians at Peenemunde']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'controls via Ilse']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'in the office of at Twelfth House']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'story of Margherita to']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'works for']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'haunted by']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = '\"girl of\"']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'helps escape from Marvy']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'aunt of.']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'assistant to']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'teaches propulsion to']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'speaks to from the beyond about rockets']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'warns of Schwarzkommando, attempts to capture']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'drives for']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'radar man for']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'ancestor of']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = '\"emulsion J\" film store from']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'acts for']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'tells story of Margherita to']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'searching for']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'delivers film to']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'castrated by']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'boss of']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
-    }
-  }, {
-    "selector" : "edge[interaction = 'launches in 00000 with Schwarzgerat']",
-    "css" : {
-      "source-arrow-shape" : "triangle"
     }
   }, {
     "selector" : "edge:selected",

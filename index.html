@@ -38,11 +38,11 @@
     <div id = "cy"></div>
     <script>
         //console.log("Before Loading")
-        var json = $.getJSON('Gravitys_Rainbow_Test7.cyjs').done(function(data){
+        var json = $.getJSON('Gravitys_Rainbow_v1.cyjs').done(function(data){
             var cy = cytoscape({
                 container: document.getElementById('cy'),
                 elements: data.elements,
-                style: fetch('styles_test7.json').then(res => res.json()).then(json => json.style),
+                style: fetch('styles_v1.json').then(res => res.json()).then(json => json.style),
                 
                 layout:{
                     name: 'preset',

@@ -49,10 +49,10 @@
         but the interactions of groups of characters that comprise organizations, I knew that a graph, which is limited only to 
         pairwise connections between nodes, would not suffice to capture all of the relevant information. Formally, what you are looking at is 
         a hypergraph, defined as H = (X,E) where X is the set of nodes (in this case characters, i.e X = {Tyrone Slothrop, Rogen Mexico, Katje Borgesius,...}) 
-        and E is a set of non-empty subsets of X, known as hyperedges, which encapsulate both standard graph edges such as {Vaslav Tchitcherine, Geli Tripping}, 
-        but also groups of arbitrary size such as the Argentinian Anarchists: {Francisco Squalidozzi, Luz, Felipe, El Nato, Belaustegui, Graciela Imago Portales}. 
-        In reality, the information displayed is not encoded this way, but visually it is the result. Similar 
-        efforts had already been made for the <a href = "https://sciencekings.com/GravitysRainbowCharacters.pdf"> major characters/ideas</a> of Gravity's Rainbow,
+        and E is a set of non-empty subsets of X, known as hyperedges, which encapsulate both standard graph edges such as {Vaslav Tchitcherine, Geli Tripping}, which
+        are represented as an a line between nodes, but also groups of arbitrary size such as the Argentinian Anarchists: {Francisco Squalidozzi, Luz, Felipe, El Nato, 
+        Belaustegui, Graciela Imago Portales}, which are represented by rectangles around nodes. In reality, the information displayed is not encoded exactly this way, 
+        but visually it is the result. Similar efforts had already been made for the <a href = "https://sciencekings.com/GravitysRainbowCharacters.pdf"> major characters/ideas</a> of Gravity's Rainbow,
         the characters of <a href = "https://inherent-vice.com/">Inherent Vice </a> and for other novels with many characters such as 
         <a href = "https://colab.research.google.com/github/pnnl/HyperNetX/blob/master/tutorials/Tutorial%203%20-%20LesMis%20Case%20Study.ipynb"> Les Mis </a>,
         but I wanted to make something that 1) included every character in one network, 2) adhered more closely to what I thought was the natural graph 
@@ -68,9 +68,9 @@
         then input to the computer graphically using <a href="https://cytoscape.org/">Cytoscape</a>,
         and displayed using <a href="https://js.cytoscape.org/">Cytoscape.js</a> with html. Obtaining a useable layout with a minimal number of edge crossings
         was <a href = "https://en.wikipedia.org/wiki/Crossing_number_(graph_theory)#Complexity_and_approximation">hard</a> but after messing around with 
-        algorithmic formatting I settled on a hand drawn layout. Nodes can be clicked and dragged to make for easier reading. Certain important groups 
-        such as The Counterforce are omitted as their membership crosses multiple group boundaries, making it difficult to draw cleanly. I am
-        working on other methods of visualizing these hyperedges. Prior to this I had never written a line of javascript or HTML, and still know 
+        algorithmic formatting I settled on a hand drawn layout. There are still spots that are crowded/overlap in awkward ways, but the nodes can be clicked and dragged 
+        to make for easier reading. Certain important groups such as The Counterforce and characters involved with Imipolex G were created, but eventually omitted because their 
+        membership crosses multiple group boundaries, making it difficult to draw cleanly. I am working on other methods of visualizing these hyperedges. Prior to this I had never written a line of javascript or HTML, and still know 
         nothing about web development, so the style is primitive and there is likely no shortage of obvious mistakes.<br>
         
         <br>My criteria for including a character was that the character is 1) named and 2) performs some action in the context of the novel. This criteria excludes 
