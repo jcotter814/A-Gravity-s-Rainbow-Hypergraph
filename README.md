@@ -1,5 +1,5 @@
 # A-Gravity-s-Rainbow-Hypergraph
-        <h2 align = "center">About</h2>
+        <h2>About</h2>
         <p>"We have to look for power sources here, and distribution networks we were never taught, routes of power our teachers
         never imagined, or were encouraged to avoid ... we have to find meters whose scales are unknown in the world, draw 
         our own schematics, getting feedback, making connections, reducing the error, trying to learn the real function ... 
@@ -21,7 +21,7 @@
         want - about paranoia, there is still also anti-paranoia, where nothing is connected to anything, a condition not many of us can 
         bear for long" (434).</p> <br>
         
-        <h2 align = "center">The Math</h2>
+        <h2>The Math</h2>
         "If tensor analysis is good enough for turbulence, it ought to be good enough for history. There ought to be nodes, critical points ... 
         there ought to be super-derivatives of the crowded and insatiate flow that can be set equal to zero and those critical points found" (451). <br>
 
@@ -40,7 +40,7 @@
         structure of characters as nodes, edges as connections, groups as hyperedges and 3) could be open sourced into an interactive, wiki like project
         that others could benefit from and contribute to. <br>
 
-        <h2 align = "center">Methodology</h2>
+        <h2>Methodology</h2>
         "If you want the truth - I know I presume - you must look into the technology of these matters. Even into the hearts of
         certain molecules - it is they after all which dictate temperatures, pressures, rates of flow, costs, profits, the shapes
         of towers" (167). <br>
