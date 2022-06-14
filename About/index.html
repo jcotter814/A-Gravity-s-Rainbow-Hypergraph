@@ -10,6 +10,14 @@
         width: 60%;
         margin: 0 auto
     }
+    #Hypergraph{
+        position: fixed;
+        width: 5%;
+        height: 5%;
+        top: 0px;
+        left: 0px;
+        z-index: 99;
+    }
 </style>
 
 <head>
@@ -17,6 +25,10 @@
 </head>
 
 <body>
+    <div id = "Hypergraph">
+        <a href = "../index.html">Hypergraph</a>
+    </div>
+
     <div id = "text"></div>
         <h2 align = "center">About</h2>
         <p>"We have to look for power sources here, and distribution networks we were never taught, routes of power our teachers
@@ -24,7 +36,7 @@
         our own schematics, getting feedback, making connections, reducing the error, trying to learn the real function ... 
         zeroing in on what incalculable plot?" (521). </p>
 
-        <p>Gravity's Rainbow is a novel in many respects about human attempts at the imposition of order on and construction of meaning 
+        <p>Gravity's Rainbow is a novel in many respects about human attempts to impose order on and construct meaning 
         from the torrent of sensory data that floods our senses at every moment. Pavlovianism, statistics, rocketry, organic chemistry, 
         Kabbalah, Rosicrucianism, Protestantism, military industrial conspiracies, S&M and more are all depicted as 
         methods of systematizing and constructing meaning out of a stream of information that may, in reality, be nothing more 
@@ -34,7 +46,7 @@
         investigation and dramatization of them ... He is locating the  kinds of human consciousness that have been 
         implanted <i>in</i> the instruments of technology and contemporary methods of analysis; not content with 
         recording the historical effect of these, he is anxious  to find our history <i>in</i> them." The plot of the book 
-        mirrors this form, presenting the reader with an endless succession of characters, plots, agencies, connections and conspiracies
+        mirrors this form, bombarding the reader with an endless succession of characters, plots, agencies, connections and conspiracies
         that quickly overwhelm the working memory. We become like Slothrop, that peripatetic paranoid, searching for hidden connections,
         signs of election, something to latch onto. It sure beats the alternative: "If there is something comforting - religous, if you 
         want - about paranoia, there is still also anti-paranoia, where nothing is connected to anything, a condition not many of us can 
@@ -53,8 +65,8 @@
         are represented as an a line between nodes, but also groups of arbitrary size such as the Argentinian Anarchists: {Francisco Squalidozzi, Luz, Felipe, El Nato, 
         Belaustegui, Graciela Imago Portales}, which are represented by rectangles around nodes. In reality, the information displayed is not encoded exactly this way, 
         but visually it is the result. Similar efforts had already been made for the <a href = "https://sciencekings.com/GravitysRainbowCharacters.pdf"> major characters/ideas</a> of Gravity's Rainbow,
-        the characters of <a href = "https://inherent-vice.com/">Inherent Vice </a> and for other novels with many characters such as 
-        <a href = "https://colab.research.google.com/github/pnnl/HyperNetX/blob/master/tutorials/Tutorial%203%20-%20LesMis%20Case%20Study.ipynb"> Les Mis </a>,
+        the characters of <a href = "https://inherent-vice.com/">Inherent Vice</a> and for other novels with many characters such as 
+        <a href = "https://colab.research.google.com/github/pnnl/HyperNetX/blob/master/tutorials/Tutorial%203%20-%20LesMis%20Case%20Study.ipynb"> Les Mis</a>,
         but I wanted to make something that 1) included every character in one network, 2) adhered more closely to what I thought was the natural graph 
         structure of characters as nodes, edges as connections, groups as hyperedges and 3) could be open sourced into an interactive, wiki like project
         that others could benefit from and contribute to. <br>
@@ -87,20 +99,20 @@
         Creative paranoia means developing at least as thorough a We-system as a They-system ... We don't have to worry about questions of real or unreal
         ... It's the <i>system</i> that matters. How the data arrange themselves inside it. Some are consistent, others fall apart" (638). <br>
 
-        <br>This project is <a href = "https://github.com/jcotter814/A-Gravity-s-Rainbow-Hypergraph"> open source </a> and in theory anyone with ideas for improvements 
+        <br>This project is <a href = "https://github.com/jcotter814/A-Gravity-s-Rainbow-Hypergraph"> open source</a> and in theory anyone with ideas for improvements 
         should feel free to submit a pull request. However, I will be without consistent access to internet/computer for the next five months, so I will 
         either have to pass on the authority to approve changes to a trusted individual or simply wait until I am back. <br>
 
         <br><b>Planned improvements:</b>
-        <br>- General style fixes, fixing problems with edge arrows not displaying correctly.
+        <br>- General style improvements.
         <br>- Using index of characters by order of appearance to allow for the generation of spoiler free networks up to the end of books 1, 2, 3 and 4.
-        <br>- Upgrade to allow for direct, graphical editing or the network for users who are not familiar with coding/git. <br>
+        <br>- Upgrades to allow for direct, graphical editing of the network for users who are not familiar with coding/git. <br>
         
-        <br><b>Ideas for contributions:</b>
+        <br><b>Ideas for possible contributions:</b>
         <br>- Enhanced edge information, including page number references.
         <br>- Clarification of the membership of the hyperedges SHAEF, SPOG, Operation Blackwing as well as the various subgroups of Hereros.
         <br>- Characters indexed by order of appearance to page level accuracy to allow for the generation of spoiler free networks up to exact pages.
-        <br>- Enhanced node/character information available on clicking/hovering.
+        <br>- Enhanced node/character information available on clicking/hovering, perhaps integrated with the Gravity's Rainbow wiki.
         <br>- Searchable nodes/hyperedges <br>
 
 </body>
