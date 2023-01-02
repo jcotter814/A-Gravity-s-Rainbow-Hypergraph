@@ -58,13 +58,12 @@
 
         <br>With these ideas in mind, I set out to turn modern mathematical methods of analysis on the novel itself and attempt to impose my own 
         order on its apparent chaos. Because Gravity's Rainbow is about not only individual characters and how they connect, 
-        but the interactions of groups of characters that comprise organizations, I knew that a graph, which is limited only to 
+        but the interactions between groups of characters that comprise organizations, I knew that a graph, which is limited only to 
         pairwise connections between nodes, would not suffice to capture all of the relevant information. Formally, what you are looking at is 
-        a hypergraph, defined as H = (X,E) where X is the set of nodes (in this case characters, i.e X = {Tyrone Slothrop, Rogen Mexico, Katje Borgesius,...}) 
+        a hypergraph, defined as H = (X,E) where X is the set of nodes (in this case characters, i.e X = {Tyrone Slothrop, Roger Mexico, Katje Borgesius,...}) 
         and E is a set of non-empty subsets of X, known as hyperedges, which encapsulate both standard graph edges such as {Vaslav Tchitcherine, Geli Tripping}, which
         are represented as an a line between nodes, but also groups of arbitrary size such as the Argentinian Anarchists: {Francisco Squalidozzi, Luz, Felipe, El Nato, 
-        Belaustegui, Graciela Imago Portales}, which are represented by rectangles around nodes. In reality, the information displayed is not encoded exactly this way, 
-        but visually it is the result. Similar efforts had already been made for the <a href = "https://sciencekings.com/GravitysRainbowCharacters.pdf"> major characters/ideas</a> of Gravity's Rainbow,
+        Belaustegui, Graciela Imago Portales}, which are represented by rectangles around nodes. Similar efforts had already been made for the <a href = "https://sciencekings.com/GravitysRainbowCharacters.pdf"> major characters/ideas</a> of Gravity's Rainbow,
         the characters of <a href = "https://inherent-vice.com/">Inherent Vice</a> and for other novels with many characters such as 
         <a href = "https://colab.research.google.com/github/pnnl/HyperNetX/blob/master/tutorials/Tutorial%203%20-%20LesMis%20Case%20Study.ipynb"> Les Mis</a>,
         but I wanted to make something that 1) included every character in one network, 2) adhered more closely to what I thought was the natural graph 
@@ -82,11 +81,10 @@
         was <a href = "https://en.wikipedia.org/wiki/Crossing_number_(graph_theory)#Complexity_and_approximation">hard</a> but after messing around with 
         algorithmic formatting I settled on a hand drawn layout. There are still spots that are crowded/overlap in awkward ways, but the nodes can be clicked and dragged 
         to make for easier reading. Certain important groups such as The Counterforce and characters involved with Imipolex G were created, but eventually omitted because their 
-        membership crosses multiple group boundaries, making it difficult to draw cleanly. I am working on other methods of visualizing these hyperedges. Prior to this I had never written a line of javascript or HTML, and still know 
-        nothing about web development, so the style is primitive and there is likely no shortage of obvious mistakes.<br>
+        membership crosses multiple group boundaries, making it difficult to draw cleanly. I am working on other methods of visualizing these hyperedges.<br>
         
         <br>My criteria for including a character was that the character is 1) named and 2) performs some action in the context of the novel. This criteria excludes 
-        individuals such as Richard Nixon, who are named but do not perform any action, as well as the dancers and chimpanzees of GMB Haftung, who perform 
+        individuals such as Richard Nixon, who is named but does not perform any action, as well as the dancers and chimpanzees of GMB Haftung, who perform 
         actions, but remain unnamed.  Using this criteria I ended up with 242 characters which is well below the 400 quoted in secondary sources, 
         which likely count historical figures as well as unnamed characters. <br>
 
@@ -100,8 +98,7 @@
         ... It's the <i>system</i> that matters. How the data arrange themselves inside it. Some are consistent, others fall apart" (638). <br>
 
         <br>This project is <a href = "https://github.com/jcotter814/A-Gravity-s-Rainbow-Hypergraph"> open source</a> and in theory anyone with ideas for improvements 
-        should feel free to submit a pull request. However, I will be without consistent access to internet/computer for the next five months, so I will 
-        either have to pass on the authority to approve changes to a trusted individual or simply wait until I am back. <br>
+        should feel free to submit a pull request. <br>
 
         <br><b>Planned improvements:</b>
         <br>- General style improvements.
